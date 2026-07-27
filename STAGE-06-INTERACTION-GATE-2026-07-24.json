@@ -1,0 +1,138 @@
+{
+  "sizes": {
+    "logo": [
+      {
+        "w": 112,
+        "h": 112
+      }
+    ],
+    "burger": [
+      {
+        "w": 48,
+        "h": 48
+      }
+    ],
+    "header_call": [
+      {
+        "w": 50,
+        "h": 56
+      }
+    ],
+    "callbar": [
+      {
+        "w": 164,
+        "h": 56
+      },
+      {
+        "w": 168,
+        "h": 56
+      }
+    ],
+    "mobile_menu_links": [
+      {
+        "w": 324,
+        "h": 59.4
+      },
+      {
+        "w": 324,
+        "h": 59.4
+      },
+      {
+        "w": 324,
+        "h": 59.4
+      },
+      {
+        "w": 324,
+        "h": 59.4
+      },
+      {
+        "w": 324,
+        "h": 59.4
+      }
+    ],
+    "search_input": [
+      {
+        "w": 328,
+        "h": 58
+      }
+    ],
+    "product_buttons": [
+      {
+        "w": 284,
+        "h": 66.8
+      },
+      {
+        "w": 284,
+        "h": 62
+      }
+    ],
+    "modal_close": [
+      {
+        "w": 44,
+        "h": 44
+      }
+    ],
+    "modal_inputs": [
+      {
+        "w": 260,
+        "h": 56
+      },
+      {
+        "w": 260,
+        "h": 56
+      },
+      {
+        "w": 260,
+        "h": 80
+      }
+    ],
+    "modal_submit": [
+      {
+        "w": 260,
+        "h": 62
+      }
+    ],
+    "modal_consent_label": [
+      {
+        "w": 260,
+        "h": 63
+      }
+    ],
+    "contact_inputs": [
+      {
+        "w": 256,
+        "h": 56
+      },
+      {
+        "w": 256,
+        "h": 56
+      },
+      {
+        "w": 256,
+        "h": 104
+      }
+    ],
+    "contact_submit": [
+      {
+        "w": 256,
+        "h": 62
+      }
+    ],
+    "contact_consent_label": [
+      {
+        "w": 256,
+        "h": 84
+      }
+    ]
+  },
+  "interactions": {
+    "menu_focus_return": true,
+    "search_active_descendant": "search-option-0",
+    "search_selected": 1,
+    "search_closed": true,
+    "modal_tab_wrap_forward": true,
+    "modal_tab_wrap_backward": true,
+    "modal_focus_return": true
+  },
+  "failures": []
+}

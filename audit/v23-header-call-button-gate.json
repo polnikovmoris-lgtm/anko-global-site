@@ -1,0 +1,20 @@
+{
+  "status": "passed",
+  "reference_color": "#3D825F",
+  "white_text_contrast_ratio": 4.61,
+  "checks": {
+    "site_source_css_identical": true,
+    "header_rule_present": true,
+    "height_48": true,
+    "font_16": true,
+    "padding_12_20": true,
+    "gap_8": true,
+    "reference_color_exact": true,
+    "header_uses_reference_color": true,
+    "base_call_remains_dark": true,
+    "mobile_touch_target_48": true,
+    "white_text_contrast_aa": true,
+    "css_cache_v23": true
+  },
+  "errors": []
+}

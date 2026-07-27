@@ -1,0 +1,13 @@
+{
+  "status": "passed",
+  "category_covers": 4,
+  "product_images": 18,
+  "adaptive_assets_checked": 88,
+  "expected_adaptive_assets": 88,
+  "product_jpgs_changed_from_v23": 18,
+  "product_pages_with_image_clarification": 18,
+  "obsolete_normet_overlay_references": [],
+  "v23_archive_sha256": "675f4913edd35bf4234bc99e0fd699a6134cdf1f26009a4f613b69c2ef70c6e0",
+  "v23_archive_preserved": true,
+  "errors": []
+}

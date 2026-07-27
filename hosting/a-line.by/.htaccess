@@ -1,0 +1,6 @@
+RewriteEngine On
+
+# Установить в корень отдельного хостинга старого домена a-line.by.
+# Путь и строка запроса сохраняются автоматически.
+RewriteCond %{HTTP_HOST} ^(?:www\.)?a-line\.by$ [NC]
+RewriteRule ^ https://ankoglobal.by%{REQUEST_URI} [R=301,L,NE]

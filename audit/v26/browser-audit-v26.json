@@ -1,0 +1,106 @@
+{
+  "status": "passed",
+  "render_mode": "PHP CLI output + Chromium set_content + intercepted local assets",
+  "note": "Direct browser URL navigation is disabled by the managed runtime; production PHP was rendered before Chromium checks.",
+  "sitemap_urls": 81,
+  "viewports": [
+    [
+      320,
+      900
+    ],
+    [
+      1440,
+      1000
+    ]
+  ],
+  "page_viewport_scenarios": 162,
+  "failed_page_scenarios": 0,
+  "failures": [],
+  "targeted_checks": {
+    "mobile_phone": {
+      "passed": true,
+      "metrics": {
+        "whiteSpace": "nowrap",
+        "left": 60,
+        "right": 260,
+        "top": 1113.625,
+        "bottom": 1134.3125,
+        "parentLeft": 44,
+        "parentRight": 276,
+        "rectCount": 1,
+        "documentWidth": 320,
+        "viewportWidth": 320
+      }
+    },
+    "catalog_mobile_padding": {
+      "passed": true,
+      "metrics": {
+        "left": 0,
+        "right": 375,
+        "width": 375,
+        "viewport": 375,
+        "paddingLeft": "16px",
+        "paddingRight": "16px"
+      }
+    },
+    "catalog_filter": {
+      "passed": true,
+      "metrics": {
+        "visible": [
+          "Бентониты AnkoBent CETCO PHRIKOLAT BAROID BAULUX"
+        ],
+        "hidden": 7
+      }
+    },
+    "contacts_mobile_padding": {
+      "passed": true,
+      "metrics": {
+        "viewport": 375,
+        "headLeft": 0,
+        "headRight": 375,
+        "headPaddingLeft": "16px",
+        "headPaddingRight": "16px",
+        "cardLeft": 16,
+        "cardRight": 359,
+        "scrollWidth": 375
+      }
+    },
+    "reviews_lightbox": {
+      "passed": true,
+      "metrics": {
+        "opened": {
+          "hidden": false,
+          "bodyClass": true,
+          "src": "img/reviews/hydrogeoservice-letter.jpg",
+          "naturalWidth": 1654,
+          "active": "review-lightbox__close"
+        },
+        "second_src": "img/reviews/bursetstroy-letter.jpg",
+        "closed": {
+          "hidden": true,
+          "bodyClass": false,
+          "focusReturned": true
+        }
+      }
+    },
+    "menu_and_kp_modal": {
+      "passed": true,
+      "metrics": {
+        "menu_open": "true",
+        "menu_closed": "false",
+        "modal_open": true,
+        "active_name": "phone",
+        "modal_closed": true
+      }
+    },
+    "product_gallery": {
+      "passed": true,
+      "metrics": {
+        "thumbs": 4,
+        "first_main": "img/product-burovoi-nozh.jpg",
+        "second_main": "img/gallery/a-line/lopatki/noj1.webp"
+      }
+    }
+  },
+  "targeted_failures": {}
+}

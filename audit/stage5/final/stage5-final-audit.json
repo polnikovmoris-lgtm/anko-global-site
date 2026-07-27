@@ -1,0 +1,81 @@
+{
+  "pages": 75,
+  "status_counts": {
+    "404": 1,
+    "200": 74
+  },
+  "heading_skip_pages": [],
+  "jsonld_error_pages": [],
+  "unsafe_target_blank": [],
+  "google_fonts_pages": [],
+  "product_og_specific": 59,
+  "product_og_type_product": 59,
+  "unique_og_images": 67,
+  "og_dimension_mismatches": [],
+  "collection_pages": 9,
+  "collection_item_counts": {
+    "catalog.php": [
+      8
+    ],
+    "category-bentonit.php": [
+      6
+    ],
+    "category-instrument.php": [
+      14
+    ],
+    "category-lokacia.php": [
+      3
+    ],
+    "category-normet.php": [
+      11
+    ],
+    "category-polimer.php": [
+      9
+    ],
+    "category-smazki.php": [
+      4
+    ],
+    "category-trubi.php": [
+      2
+    ],
+    "category-ustanovki.php": [
+      10
+    ]
+  },
+  "lcp_preload_pages": 60,
+  "responsive_source_total": 122,
+  "sitemap": {
+    "urls": 72,
+    "lastmod": 72,
+    "image_entries": 67
+  },
+  "assets": {
+    "css/style.css": {
+      "raw": 45087,
+      "gzip": 9946
+    },
+    "js/main.js": {
+      "raw": 8758,
+      "gzip": 2805
+    },
+    "js/search.js": {
+      "raw": 50723,
+      "gzip": 11346
+    }
+  },
+  "image_bytes": 12783647,
+  "responsive_variant_missing": [],
+  "source_checks": {
+    "no_google_fonts_source": true,
+    "index_php_redirect": true,
+    "brotli_conditional": true,
+    "robots_blocks_endpoints": true,
+    "send_x_robots": true,
+    "dynamic_og_dimensions": true
+  },
+  "noindex_pages": {
+    "404.php": "noindex,follow",
+    "policy.php": "noindex,follow",
+    "thanks.php": "noindex,follow"
+  }
+}

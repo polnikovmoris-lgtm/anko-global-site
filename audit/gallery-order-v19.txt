@@ -1,0 +1,1 @@
+PASS: 24 galleries, 72 ordered image links, 0 sequence mismatches, 0 missing files

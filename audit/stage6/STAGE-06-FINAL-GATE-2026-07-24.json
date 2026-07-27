@@ -1,0 +1,54 @@
+{
+  "stage": "Stage-06",
+  "date": "2026-07-24",
+  "status": "COMPLETED_LOCALLY_READY_FOR_STAGING_RELEASE_VALIDATION",
+  "base": {
+    "archive": "anko-global-stage5-seo-technical-2026-07-24-v9.zip",
+    "sha256": "2bd721a33b349a5fcbc32d9af42134a0b7c6f80dc62bcb5e6bb7e68e060bc6fc"
+  },
+  "browser_qa": {
+    "representative_pages": 9,
+    "viewports": [1440, 1024, 768, 430, 360],
+    "checks": 45,
+    "horizontal_overflow": 0,
+    "broken_images": 0,
+    "missing_alt": 0,
+    "unlabeled_inputs": 0,
+    "console_errors": 0,
+    "page_errors": 0
+  },
+  "accessibility": {
+    "pages_checked": 75,
+    "pages_with_issues": 0,
+    "interaction_failures": 0,
+    "focus_visible": true,
+    "reduced_motion": true,
+    "zoom_not_disabled": true
+  },
+  "regression": {
+    "production_files": 351,
+    "php_files": 79,
+    "products": 59,
+    "categories": 8,
+    "graphical_resources": 265,
+    "broken_internal_links": 0,
+    "missing_resources": 0,
+    "jsonld_errors": 0,
+    "bad_h1": 0,
+    "sitemap_urls": 72,
+    "search_records": 67,
+    "raster_files_checked": 262,
+    "bad_raster_files": 0,
+    "php_lint_errors": 0,
+    "javascript_syntax_errors": 0
+  },
+  "local_server_limitation": "PHP built-in server routes an unknown extensionless URL through index.php; Apache ErrorDocument 404 must be verified on staging.",
+  "staging_required": [
+    "Apache .htaccess and real 404",
+    "HTTPS redirects and security/cache headers",
+    "SMTP or transactional mail delivery",
+    "Lighthouse and Core Web Vitals",
+    "analytics and cookie consent if enabled",
+    "real external-link and integration checks"
+  ]
+}

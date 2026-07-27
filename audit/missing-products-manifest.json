@@ -1,0 +1,95 @@
+{
+  "count": 10,
+  "products": [
+    {
+      "src": "bentonit-ankobent-plus.html",
+      "slug": "ankobent-plus",
+      "category": "bentonit",
+      "name": "AnkoBent Plus",
+      "brand": "AnkoBent",
+      "image": "AnkoBentPlus.png",
+      "lead": "Высокопроизводительная смесь природно-натриевого бентонита для ГНБ и микротоннелирования."
+    },
+    {
+      "src": "bentonit-ultragel.html",
+      "slug": "ultra-gel",
+      "category": "bentonit",
+      "name": "Ultra Gel",
+      "brand": "AnkoBent",
+      "image": "CetcoUltraGel.jpg",
+      "lead": "Универсальный бентонитовый материал для приготовления буровых растворов."
+    },
+    {
+      "src": "bentonit-cetco-supergelx.html",
+      "slug": "cetco-super-gel-x",
+      "category": "bentonit",
+      "name": "CETCO SUPER GEL X",
+      "brand": "CETCO",
+      "image": "CetcosuperGelX.jpg",
+      "lead": "Высококачественный натриевый бентонит для буровых растворов."
+    },
+    {
+      "src": "bentonit-cetco-hydraulez.html",
+      "slug": "cetco-hydraul-ez",
+      "category": "bentonit",
+      "name": "CETCO HYDRAUL-EZ",
+      "brand": "CETCO",
+      "image": "CetcoHydraulEz.jpg",
+      "lead": "Бентонитовая система для горизонтально-направленного бурения."
+    },
+    {
+      "src": "bentonit-barroid-tunnel-gelplus.html",
+      "slug": "baroid-tunnel-gel-plus",
+      "category": "bentonit",
+      "name": "Baroid TUNNEL-GEL PLUS",
+      "brand": "BAROID",
+      "image": "BarroidTunnGPlus.jpg",
+      "lead": "Премиальная бентонитовая система для тоннелирования и сложных буровых работ."
+    },
+    {
+      "src": "polimer-cetco-suspend-it.html",
+      "slug": "cetco-suspend-it",
+      "category": "polimer",
+      "name": "CETCO SUSPEND-IT",
+      "brand": "CETCO",
+      "image": "CetcoSuspendIT.png",
+      "lead": "Полимерная добавка для повышения несущей и суспендирующей способности раствора."
+    },
+    {
+      "src": "polimer-polimersplus-hv.html",
+      "slug": "polymersplus-hv",
+      "category": "polimer",
+      "name": "Polymers Plus HV",
+      "brand": "PolymersPlus",
+      "image": "PolymersPlusHV.jpg",
+      "lead": "Высоковязкий полимер для регулирования свойств бурового раствора."
+    },
+    {
+      "src": "polimer-polimersplus-pam-phpa.html",
+      "slug": "polymersplus-pam-h",
+      "category": "polimer",
+      "name": "Polymers Plus PAM H",
+      "brand": "PolymersPlus",
+      "image": "PolymersPamPlusH.jpg",
+      "lead": "Инкапсулирующий PHPA-полимер для стабилизации глинистых пород."
+    },
+    {
+      "src": "polimer-benotolux-horizont-phpa.html",
+      "slug": "bentolux-horizont-phpa",
+      "category": "polimer",
+      "name": "BENTOLUX Horizont PHPA",
+      "brand": "BAULUX",
+      "image": "BentoluxHorizonPHPA.png",
+      "lead": "PHPA-полимер для ингибирования и стабилизации активных глин."
+    },
+    {
+      "src": "polimer-bentolux-vis.html",
+      "slug": "bentolux-horizon-vis",
+      "category": "polimer",
+      "name": "BENTOLUX Horizon VIS",
+      "brand": "BAULUX",
+      "image": "BentoluxHorizonVIS.png",
+      "lead": "Полимер-загуститель для быстрого повышения вязкости бурового раствора."
+    }
+  ]
+}

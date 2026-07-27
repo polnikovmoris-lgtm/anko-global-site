@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+Disallow: /send.php
+Disallow: /thanks.php
+Disallow: /inc/
+
+# ИИ-краулеры (поиск и ассистенты) — разрешаем индексацию
+User-agent: GPTBot
+Allow: /
+User-agent: OAI-SearchBot
+Allow: /
+User-agent: ChatGPT-User
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: ClaudeBot
+Allow: /
+User-agent: Google-Extended
+Allow: /
+
+Sitemap: https://ankoglobal.by/sitemap.xml

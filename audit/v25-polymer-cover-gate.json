@@ -1,0 +1,33 @@
+{
+  "status": "passed",
+  "cover_variants_checked": 4,
+  "expected_cover_variants": 4,
+  "cover_dimensions": [
+    [
+      640,
+      400
+    ],
+    [
+      960,
+      600
+    ],
+    [
+      1280,
+      800
+    ],
+    [
+      1280,
+      800
+    ]
+  ],
+  "references": {
+    "catalog.php": true,
+    "index.php": true,
+    "category-polimer.php": true,
+    "sitemap.xml": true
+  },
+  "product_image_variants_preserved": 4,
+  "v24_archive_sha256": "d32006b79551802b38a0f8f47e715ae18476a6948a1a7f247d783dd7ec9164ee",
+  "v24_archive_preserved": true,
+  "errors": []
+}

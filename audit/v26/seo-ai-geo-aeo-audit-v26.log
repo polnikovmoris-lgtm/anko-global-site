@@ -1,0 +1,32 @@
+{
+  "status": "passed",
+  "sitemap_urls": 81,
+  "pages_rendered": 81,
+  "unique_titles": 81,
+  "unique_descriptions": 81,
+  "local_links_checked": 2336,
+  "images_missing_alt_attribute": 0,
+  "schema_blocks_by_type": {
+    "AboutPage": 1,
+    "Answer": 4,
+    "Brand": 67,
+    "BreadcrumbList": 80,
+    "CollectionPage": 9,
+    "FAQPage": 1,
+    "ItemList": 9,
+    "ListItem": 380,
+    "LocalBusiness": 2,
+    "OpeningHoursSpecification": 1,
+    "PostalAddress": 2,
+    "Product": 68,
+    "Question": 4,
+    "WebPage": 1,
+    "WebSite": 1
+  },
+  "product_pages": 68,
+  "product_pages_with_offer_schema": 0,
+  "faq_visible_questions": 4,
+  "faq_schema_questions": 4,
+  "errors": [],
+  "warnings": []
+}

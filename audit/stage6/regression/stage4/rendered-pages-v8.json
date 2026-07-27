@@ -1,0 +1,4590 @@
+[
+  {
+    "page": "404.php",
+    "status": 404,
+    "title": "Страница не найдена — ANKO GLOBAL",
+    "title_len": 33,
+    "description": "Запрошенная страница не найдена. Перейдите в каталог ANKO GLOBAL или свяжитесь с нами.",
+    "description_len": 86,
+    "canonical": "",
+    "h1": [
+      "Страница не найдена"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [],
+    "robots": "noindex,follow"
+  },
+  {
+    "page": "about.php",
+    "status": 200,
+    "title": "О компании ANKO GLOBAL — поставщик для ГНБ в Беларуси",
+    "title_len": 53,
+    "description": "ANKO GLOBAL поставляет материалы, оборудование и оснастку для ГНБ с 2011 года. Склад в Минске, поставки по Беларуси и СНГ.",
+    "description_len": 122,
+    "canonical": "https://a-global.by/about.php",
+    "h1": [
+      "Материалы и оборудование для ГНБ — с пониманием задач на объекте"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "AboutPage",
+        "name": "О компании ANKO GLOBAL",
+        "url": "https://a-global.by/about.php",
+        "mainEntity": {
+          "@type": "Organization",
+          "name": "ANKO GLOBAL",
+          "url": "https://a-global.by/",
+          "email": "info@a-global.by",
+          "foundingDate": "2011"
+        }
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "О компании",
+            "item": "https://a-global.by/about.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "catalog.php",
+    "status": 200,
+    "title": "Каталог для ГНБ — бентонит, установки, инструмент | ANKO",
+    "title_len": 56,
+    "description": "Каталог для горизонтально направленного бурения: бентониты AnkoBent и CETCO, полимеры, буровые установки, инструмент, ПЭ трубы, химия Normet. Склад в Минске.",
+    "description_len": 157,
+    "canonical": "https://a-global.by/catalog.php",
+    "h1": [
+      "Каталог продукции для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Каталог продукции для ГНБ",
+        "url": "https://a-global.by/catalog.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 8,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Бентониты",
+              "url": "https://a-global.by/category-bentonit.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Полимеры и реагенты",
+              "url": "https://a-global.by/category-polimer.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Буровые установки",
+              "url": "https://a-global.by/category-ustanovki.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Буровой инструмент",
+              "url": "https://a-global.by/category-instrument.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "ПЭ трубы",
+              "url": "https://a-global.by/category-trubi.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Смазочные материалы",
+              "url": "https://a-global.by/category-smazki.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Локационные системы",
+              "url": "https://a-global.by/category-lokacia.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Химия Normet",
+              "url": "https://a-global.by/category-normet.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-bentonit.php",
+    "status": 200,
+    "title": "Бентонит для ГНБ купить в Минске — AnkoBent, CETCO",
+    "title_len": 50,
+    "description": "Бентонит для ГНБ: собственная марка AnkoBent, а также CETCO, PHRIKOLAT, BAROID. Мешки 25 кг. Склад в Минске, доставка по РБ и СНГ.",
+    "description_len": 130,
+    "canonical": "https://a-global.by/category-bentonit.php",
+    "h1": [
+      "Бентониты для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Бентониты",
+            "item": "https://a-global.by/category-bentonit.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Бентонит для ГНБ купить в Минске — AnkoBent, CETCO",
+        "url": "https://a-global.by/category-bentonit.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 6,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "AnkoBent Ultra",
+              "url": "https://a-global.by/product-ankobent-ultra.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CETCO Ultragel",
+              "url": "https://a-global.by/product-cetco-ultragel.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Bentolux Horizont PR",
+              "url": "https://a-global.by/product-bentolux-horizont-pr.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "PHRIKOLAT Bentonit Typ W",
+              "url": "https://a-global.by/product-phrikolat-type-w.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "PHRIKOLAT Bentonit W plus",
+              "url": "https://a-global.by/product-phrikolat-w-plus.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "PHRIKOLAT Bentonit Typ W Premium",
+              "url": "https://a-global.by/product-phrikolat-typ-w-premium.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-instrument.php",
+    "status": 200,
+    "title": "Буровой инструмент ГНБ — расширители, штанги, вертлюги",
+    "title_len": 54,
+    "description": "Буровой инструмент для ГНБ: расширители, вертлюги, буровые пилоты, ножи, штанги буровые и стартовые, адаптеры, НСУ. Склад в Минске, доставка по РБ и СНГ.",
+    "description_len": 153,
+    "canonical": "https://a-global.by/category-instrument.php",
+    "h1": [
+      "Буровой инструмент для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Буровой инструмент ГНБ — расширители, штанги, вертлюги",
+        "url": "https://a-global.by/category-instrument.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 14,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Расширители",
+              "url": "https://a-global.by/product-rasshiritel.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Штанги буровые",
+              "url": "https://a-global.by/product-shtanga-burovaya.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Вертлюги",
+              "url": "https://a-global.by/product-vertlugi.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Буровые пилоты",
+              "url": "https://a-global.by/product-burovoi-pilot.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Буровые ножи",
+              "url": "https://a-global.by/product-burovoi-nozh.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Твердосплавные вставки ножа",
+              "url": "https://a-global.by/product-vstavki-nozha.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Сменные буровые головы",
+              "url": "https://a-global.by/product-burovie-golovi.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Штанги стартовые",
+              "url": "https://a-global.by/product-shtanga-startovaya.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Муфта стартовой штанги",
+              "url": "https://a-global.by/product-mufta-startovoy.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Вкладыши (губки) тисков",
+              "url": "https://a-global.by/product-vkladishi-tiskov.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "Адаптеры",
+              "url": "https://a-global.by/product-adapter.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 12,
+              "name": "Захваты цанговые для ПЭ труб",
+              "url": "https://a-global.by/product-zahvat-tsangovii.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 13,
+              "name": "Ключи трубные",
+              "url": "https://a-global.by/product-kluch-trubnii.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 14,
+              "name": "Насосно-смесительный узел (НСУ)",
+              "url": "https://a-global.by/product-nsu.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-lokacia.php",
+    "status": 200,
+    "title": "Локационные системы ГНБ — DigiTrak, SubSite, зонды",
+    "title_len": 50,
+    "description": "Локационные системы для горизонтально направленного бурения: DigiTrak, SubSite, локаторы российского производства, зонды. Доставка по РБ и СНГ.",
+    "description_len": 143,
+    "canonical": "https://a-global.by/category-lokacia.php",
+    "h1": [
+      "Локационные системы для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Локационные системы",
+            "item": "https://a-global.by/category-lokacia.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Локационные системы ГНБ — DigiTrak, SubSite, зонды",
+        "url": "https://a-global.by/category-lokacia.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 3,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "DigiTrak Falcon F5+ / Subsite Marksman",
+              "url": "https://a-global.by/product-lokatori-digitrak.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Локационные системы РФ",
+              "url": "https://a-global.by/product-lokatori-rf.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Зонды для локационных систем",
+              "url": "https://a-global.by/product-zondi.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-normet.php",
+    "status": 200,
+    "title": "Химия Normet — TamCem, TamSeal, TamShot | Минск",
+    "title_len": 47,
+    "description": "Строительная химия Normet: GeoTek, TamAcryl, TamCem, TamCrete, TamGrease, TamPur, TamRez, TamSeal, TamShot, TamSil, TamSoil. Поставки по Беларуси и СНГ.",
+    "description_len": 152,
+    "canonical": "https://a-global.by/category-normet.php",
+    "h1": [
+      "Химия Normet для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Химия Normet — TamCem, TamSeal, TamShot | Минск",
+        "url": "https://a-global.by/category-normet.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 11,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "GeoTek",
+              "url": "https://a-global.by/product-normet-geotek.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "TamAcryl",
+              "url": "https://a-global.by/product-normet-tamacryl.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "TamCem",
+              "url": "https://a-global.by/product-normet-tamcem.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "TamCrete",
+              "url": "https://a-global.by/product-normet-tamcrete.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "TamGrease",
+              "url": "https://a-global.by/product-normet-tamgrease.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "TamPur",
+              "url": "https://a-global.by/product-normet-tampur.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "TamRez",
+              "url": "https://a-global.by/product-normet-tamrez.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "TamSeal",
+              "url": "https://a-global.by/product-normet-tamseal.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "TamShot",
+              "url": "https://a-global.by/product-normet-tamshot.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "TamSil",
+              "url": "https://a-global.by/product-normet-tamsil.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 11,
+              "name": "TamSoil",
+              "url": "https://a-global.by/product-normet-tamsoil.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-polimer.php",
+    "status": 200,
+    "title": "Полимеры для бурового раствора ГНБ — купить в Минске",
+    "title_len": 52,
+    "description": "Полимеры и реагенты для ГНБ: CETCO, PolymersPlus, BAULUX. Загустители, понизители фильтрации, ингибиторы глин. Склад в Минске, доставка по Беларуси и СНГ.",
+    "description_len": 154,
+    "canonical": "https://a-global.by/category-polimer.php",
+    "h1": [
+      "Полимеры и реагенты для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Полимеры для бурового раствора ГНБ — купить в Минске",
+        "url": "https://a-global.by/category-polimer.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 9,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "CETCO REL-PAC",
+              "url": "https://a-global.by/product-cetco-rel-pac.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "CETCO INSTA-VIS DRY",
+              "url": "https://a-global.by/product-cetco-insta-vis-dry.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "PolymersPlus VIS",
+              "url": "https://a-global.by/product-polymersplus-vis.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Bentolux Horizont PAC-HV",
+              "url": "https://a-global.by/product-bentolux-pac-hv.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "BAULUX ПБМА",
+              "url": "https://a-global.by/product-baulux-pbma.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "BAULUX ПБМБ",
+              "url": "https://a-global.by/product-baulux-pbmb.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "BAULUX ПБМВ",
+              "url": "https://a-global.by/product-baulux-pbmv.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "PHRIKOLAT Rheopur",
+              "url": "https://a-global.by/product-phrikolat-rheopur.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "PHRIKOLAT PAC (L / LV / ULV)",
+              "url": "https://a-global.by/product-phrikolat-pac.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-smazki.php",
+    "status": 200,
+    "title": "Смазка для буровых штанг ГНБ — Vermeer, Jet Lube",
+    "title_len": 48,
+    "description": "Смазочные материалы для буровых штанг и резьбовых соединений: Vermeer, Ditch Witch, Jet Lube, производства РФ. Склад в Минске.",
+    "description_len": 126,
+    "canonical": "https://a-global.by/category-smazki.php",
+    "h1": [
+      "Смазочные материалы для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Смазочные материалы",
+            "item": "https://a-global.by/category-smazki.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Смазка для буровых штанг ГНБ — Vermeer, Jet Lube",
+        "url": "https://a-global.by/category-smazki.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 4,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Vermeer Bio-Stick",
+              "url": "https://a-global.by/product-smazka-vermeer.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Состав для Ditch Witch",
+              "url": "https://a-global.by/product-smazka-ditchwitch.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Jet-Lube HDD Environmental",
+              "url": "https://a-global.by/product-smazka-jet-lube.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Резьбовая смазка РФ",
+              "url": "https://a-global.by/product-smazka-rf.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-trubi.php",
+    "status": 200,
+    "title": "ПЭ трубы для ГНБ — вода и газ | Купить в Минске",
+    "title_len": 47,
+    "description": "Полиэтиленовые трубы для протяжки методом ГНБ: для водоснабжения и газоснабжения. Доставка по Беларуси и СНГ.",
+    "description_len": 109,
+    "canonical": "https://a-global.by/category-trubi.php",
+    "h1": [
+      "ПЭ трубы для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ПЭ трубы",
+            "item": "https://a-global.by/category-trubi.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "ПЭ трубы для ГНБ — вода и газ | Купить в Минске",
+        "url": "https://a-global.by/category-trubi.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 2,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "ПЭ труба для водоснабжения",
+              "url": "https://a-global.by/product-pe-pipe-voda.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "ПЭ труба для газоснабжения",
+              "url": "https://a-global.by/product-pe-pipe-gaz.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "category-ustanovki.php",
+    "status": 200,
+    "title": "Буровые установки ГНБ — XCMG, Vermeer, Ditch Witch",
+    "title_len": 50,
+    "description": "Буровые установки ГНБ: XCMG, Goodeng, Vermeer, Ditch Witch, FDP, Universal HDD. Установки шнекового бурения WAMET, установки прокола грунта Игла. Продажа и подбор.",
+    "description_len": 163,
+    "canonical": "https://a-global.by/category-ustanovki.php",
+    "h1": [
+      "Буровые установки для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          }
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "CollectionPage",
+        "name": "Буровые установки ГНБ — XCMG, Vermeer, Ditch Witch",
+        "url": "https://a-global.by/category-ustanovki.php",
+        "mainEntity": {
+          "@type": "ItemList",
+          "numberOfItems": 10,
+          "itemListElement": [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Установки ГНБ XCMG",
+              "url": "https://a-global.by/product-xcmg-hdd.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": "Установки ГНБ Goodeng",
+              "url": "https://a-global.by/product-goodeng-hdd.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 3,
+              "name": "Установки ГНБ Vermeer",
+              "url": "https://a-global.by/product-vermeer-hdd.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 4,
+              "name": "Установки ГНБ Ditch Witch",
+              "url": "https://a-global.by/product-ditchwitch-hdd.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 5,
+              "name": "Установки ГНБ FDP",
+              "url": "https://a-global.by/product-fdp-hdd.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 6,
+              "name": "Установки ГНБ Universal HDD",
+              "url": "https://a-global.by/product-universal-hdd.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 7,
+              "name": "Установки шнекового бурения WAMET",
+              "url": "https://a-global.by/product-wamet-add.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 8,
+              "name": "Установка прокола грунта Игла-20Т",
+              "url": "https://a-global.by/product-igla-20t.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 9,
+              "name": "Установка прокола грунта Игла-20ТВМ",
+              "url": "https://a-global.by/product-igla-20tvm.php"
+            },
+            {
+              "@type": "ListItem",
+              "position": 10,
+              "name": "Установка прокола грунта Игла-32Т",
+              "url": "https://a-global.by/product-igla-32t.php"
+            }
+          ]
+        }
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "contacts.php",
+    "status": 200,
+    "title": "Контакты ANKO GLOBAL — телефоны, адрес, реквизиты | Минск",
+    "title_len": 57,
+    "description": "Контакты ANKO GLOBAL: три телефона, факс, email, адрес склада в Тарасово под Минском. Работаем Пн–Пт 9:00–21:00. Поставки для ГНБ по Беларуси и СНГ.",
+    "description_len": 148,
+    "canonical": "https://a-global.by/contacts.php",
+    "h1": [
+      "Свяжитесь с нами"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "ANKO GLOBAL",
+        "alternateName": "АкцентЛайн Групп",
+        "url": "https://a-global.by/",
+        "telephone": [
+          "+375296526709",
+          "+375296399139",
+          "+375296399972"
+        ],
+        "faxNumber": "+375175156000",
+        "email": "info@a-global.by",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "пер. 2-ой Школьный, д. 1А-1, пом. 14, д. Тарасово",
+          "addressRegion": "Минская область",
+          "postalCode": "223015",
+          "addressCountry": "BY"
+        },
+        "openingHoursSpecification": {
+          "@type": "OpeningHoursSpecification",
+          "dayOfWeek": [
+            "Monday",
+            "Tuesday",
+            "Wednesday",
+            "Thursday",
+            "Friday"
+          ],
+          "opens": "09:00",
+          "closes": "21:00"
+        },
+        "areaServed": [
+          "BY",
+          "RU",
+          "KZ"
+        ]
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Контакты",
+            "item": "https://a-global.by/contacts.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "delivery.php",
+    "status": 200,
+    "title": "Доставка и оплата — ANKO GLOBAL",
+    "title_len": 31,
+    "description": "Условия поставки материалов и оборудования для ГНБ: отгрузка из Минска и под заказ, доставка по Беларуси и СНГ, безналичный расчёт для юридических лиц.",
+    "description_len": 151,
+    "canonical": "https://a-global.by/delivery.php",
+    "h1": [
+      "Доставка и оплата"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "WebPage",
+        "name": "Доставка и оплата — ANKO GLOBAL",
+        "url": "https://a-global.by/delivery.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Доставка и оплата",
+            "item": "https://a-global.by/delivery.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "index.php",
+    "status": 200,
+    "title": "ANKO GLOBAL — материалы и оборудование для ГНБ в Минске",
+    "title_len": 55,
+    "description": "Бентонит, полимеры, буровые установки и инструмент для горизонтально направленного бурения. 15 лет на рынке, склад в Минске, доставка по РБ и СНГ. +375 29 652-67-09.",
+    "description_len": 165,
+    "canonical": "https://a-global.by/",
+    "h1": [
+      "Материалы и оборудование для ГНБ со склада в Минске"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "LocalBusiness",
+        "name": "ANKO GLOBAL",
+        "alternateName": "АкцентЛайн Групп",
+        "url": "https://a-global.by/",
+        "image": "https://a-global.by/img/og-image.jpg",
+        "logo": "https://a-global.by/img/logo.svg",
+        "telephone": "+375296526709",
+        "faxNumber": "+375175156000",
+        "email": "info@a-global.by",
+        "foundingDate": "2011",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "пер. 2-ой Школьный, д. 1А-1, п. 14, д. Тарасово",
+          "addressLocality": "Минский район",
+          "addressCountry": "BY"
+        },
+        "areaServed": [
+          "BY",
+          "RU",
+          "KZ"
+        ],
+        "openingHours": "Mo-Fr 09:00-21:00"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": "ANKO GLOBAL",
+        "url": "https://a-global.by/",
+        "inLanguage": "ru-BY"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Доставляете по всей Беларуси и в СНГ?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Да, отгружаем на объект по всей Беларуси и в страны СНГ."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Можно подобрать аналог дешевле?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Да, подберём аналог под задачу и бюджет без потери качества."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Работаете с юрлицами по безналу?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Да, по безналичному расчёту, с полным пакетом документов."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Есть товар в наличии на складе?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ходовые позиции держим на складе в Минске."
+            }
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "policy.php",
+    "status": 200,
+    "title": "Политика конфиденциальности | ANKO GLOBAL",
+    "title_len": 41,
+    "description": "Политика конфиденциальности ANKO GLOBAL: обработка персональных данных и использование файлов cookie.",
+    "description_len": 101,
+    "canonical": "https://a-global.by/policy.php",
+    "h1": [
+      "Политика конфиденциальности"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [],
+    "robots": "noindex,follow"
+  },
+  {
+    "page": "product-adapter.php",
+    "status": 200,
+    "title": "Адаптеры для бурового инструмента ГНБ | ANKO",
+    "title_len": 44,
+    "description": "Переходники между элементами буровой колонны с разной резьбой. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 152,
+    "canonical": "https://a-global.by/product-adapter.php",
+    "h1": [
+      "Адаптеры"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Адаптеры",
+        "image": "https://a-global.by/img/product-adapter.jpg",
+        "description": "Переходники между элементами буровой колонны с разной резьбой.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-adapter.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Адаптеры",
+            "item": "https://a-global.by/product-adapter.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-ankobent-ultra.php",
+    "status": 200,
+    "title": "AnkoBent Ultra — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 52,
+    "description": "Бентонит премиум-класса для тяжёлых, неустойчивых грунтов. AnkoBent. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 149,
+    "canonical": "https://a-global.by/product-ankobent-ultra.php",
+    "h1": [
+      "AnkoBent Ultra"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "AnkoBent Ultra",
+        "image": "https://a-global.by/img/generated/bentonite-ankobent-ultra.jpg",
+        "description": "Бентонит премиум-класса для тяжёлых, неустойчивых грунтов.",
+        "brand": {
+          "@type": "Brand",
+          "name": "AnkoBent"
+        },
+        "url": "https://a-global.by/product-ankobent-ultra.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Бентониты",
+            "item": "https://a-global.by/category-bentonit.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "AnkoBent Ultra",
+            "item": "https://a-global.by/product-ankobent-ultra.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-baulux-pbma.php",
+    "status": 200,
+    "title": "BAULUX ПБМА — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 49,
+    "description": "Реагент BAULUX ПБМА для бурения водозаборных скважин. Поставка со склада в Минске, доставка по Беларуси и СНГ. Цена по запросу.",
+    "description_len": 127,
+    "canonical": "https://a-global.by/product-baulux-pbma.php",
+    "h1": [
+      "BAULUX ПБМА"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BAULUX ПБМА",
+        "image": "https://a-global.by/img/generated/polymer-baulux-pbma.jpg",
+        "description": "Реагент для бурения скважин.",
+        "brand": {
+          "@type": "Brand",
+          "name": "BAULUX"
+        },
+        "url": "https://a-global.by/product-baulux-pbma.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "BAULUX ПБМА",
+            "item": "https://a-global.by/product-baulux-pbma.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-baulux-pbmb.php",
+    "status": 200,
+    "title": "BAULUX ПБМБ — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 49,
+    "description": "Реагент BAULUX ПБМБ для бурения водозаборных скважин. Поставка со склада в Минске, доставка по Беларуси и СНГ. Цена по запросу.",
+    "description_len": 127,
+    "canonical": "https://a-global.by/product-baulux-pbmb.php",
+    "h1": [
+      "BAULUX ПБМБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BAULUX ПБМБ",
+        "image": "https://a-global.by/img/generated/polymer-baulux-pbmb.jpg",
+        "description": "Реагент для бурения скважин.",
+        "brand": {
+          "@type": "Brand",
+          "name": "BAULUX"
+        },
+        "url": "https://a-global.by/product-baulux-pbmb.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "BAULUX ПБМБ",
+            "item": "https://a-global.by/product-baulux-pbmb.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-baulux-pbmv.php",
+    "status": 200,
+    "title": "BAULUX ПБМВ — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 49,
+    "description": "Реагент BAULUX ПБМВ для бурения водозаборных скважин. Поставка со склада в Минске, доставка по Беларуси и СНГ. Цена по запросу.",
+    "description_len": 127,
+    "canonical": "https://a-global.by/product-baulux-pbmv.php",
+    "h1": [
+      "BAULUX ПБМВ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "BAULUX ПБМВ",
+        "image": "https://a-global.by/img/generated/polymer-baulux-pbmv.jpg",
+        "description": "Реагент для бурения скважин.",
+        "brand": {
+          "@type": "Brand",
+          "name": "BAULUX"
+        },
+        "url": "https://a-global.by/product-baulux-pbmv.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "BAULUX ПБМВ",
+            "item": "https://a-global.by/product-baulux-pbmv.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-bentolux-horizont-pr.php",
+    "status": 200,
+    "title": "Bentolux Horizont PR — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 58,
+    "description": "Бентонит линейки Bentolux Horizont. BAULUX. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 124,
+    "canonical": "https://a-global.by/product-bentolux-horizont-pr.php",
+    "h1": [
+      "Bentolux Horizont PR"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bentolux Horizont PR",
+        "image": "https://a-global.by/img/generated/bentonite-baulux-horizont-pr.jpg",
+        "description": "Бентонит линейки Bentolux Horizont.",
+        "brand": {
+          "@type": "Brand",
+          "name": "BAULUX"
+        },
+        "url": "https://a-global.by/product-bentolux-horizont-pr.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Бентониты",
+            "item": "https://a-global.by/category-bentonit.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Bentolux Horizont PR",
+            "item": "https://a-global.by/product-bentolux-horizont-pr.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-bentolux-pac-hv.php",
+    "status": 200,
+    "title": "Полимер Bentolux Horizont PAC-HV | ANKO",
+    "title_len": 39,
+    "description": "Полианионная целлюлоза высокой вязкости. BAULUX. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 129,
+    "canonical": "https://a-global.by/product-bentolux-pac-hv.php",
+    "h1": [
+      "Bentolux Horizont PAC-HV"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Bentolux Horizont PAC-HV",
+        "image": "https://a-global.by/img/generated/polymer-bentolux-pac-hv.jpg",
+        "description": "Полианионная целлюлоза высокой вязкости.",
+        "brand": {
+          "@type": "Brand",
+          "name": "BAULUX"
+        },
+        "url": "https://a-global.by/product-bentolux-pac-hv.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Bentolux Horizont PAC-HV",
+            "item": "https://a-global.by/product-bentolux-pac-hv.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-burovie-golovi.php",
+    "status": 200,
+    "title": "Сменные буровые головы для ГНБ | ANKO GLOBAL",
+    "title_len": 44,
+    "description": "Сменный узел на конце буровой колонны. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 128,
+    "canonical": "https://a-global.by/product-burovie-golovi.php",
+    "h1": [
+      "Сменные буровые головы"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Сменные буровые головы",
+        "image": "https://a-global.by/img/product-burovie-golovi.jpg",
+        "description": "Сменный узел на конце буровой колонны.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-burovie-golovi.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Сменные буровые головы",
+            "item": "https://a-global.by/product-burovie-golovi.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-burovoi-nozh.php",
+    "status": 200,
+    "title": "Буровые ножи для ГНБ — купить в Минске | ANKO",
+    "title_len": 45,
+    "description": "Режущий элемент пилотного инструмента. Расходник. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 139,
+    "canonical": "https://a-global.by/product-burovoi-nozh.php",
+    "h1": [
+      "Буровые ножи (лопатки)"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Буровые ножи (лопатки)",
+        "image": "https://a-global.by/img/product-burovoi-nozh.jpg",
+        "description": "Режущий элемент пилотного инструмента. Расходник.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-burovoi-nozh.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Буровые ножи (лопатки)",
+            "item": "https://a-global.by/product-burovoi-nozh.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-burovoi-pilot.php",
+    "status": 200,
+    "title": "Буровые пилоты для ГНБ — купить | ANKO GLOBAL",
+    "title_len": 45,
+    "description": "Инструмент для первого, пилотного прохода по трассе. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 142,
+    "canonical": "https://a-global.by/product-burovoi-pilot.php",
+    "h1": [
+      "Буровые пилоты"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Буровые пилоты",
+        "image": "https://a-global.by/img/product-burovoi-pilot.jpg",
+        "description": "Инструмент для первого, пилотного прохода по трассе.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-burovoi-pilot.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Буровые пилоты",
+            "item": "https://a-global.by/product-burovoi-pilot.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-cetco-insta-vis-dry.php",
+    "status": 200,
+    "title": "Полимер CETCO INSTA-VIS DRY | ANKO",
+    "title_len": 34,
+    "description": "Полимер-загуститель бурового раствора. CETCO. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 126,
+    "canonical": "https://a-global.by/product-cetco-insta-vis-dry.php",
+    "h1": [
+      "CETCO INSTA-VIS DRY"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CETCO INSTA-VIS DRY",
+        "image": "https://a-global.by/img/generated/polymer-cetco-insta-vis-dry.jpg",
+        "description": "Полимер-загуститель бурового раствора.",
+        "brand": {
+          "@type": "Brand",
+          "name": "CETCO"
+        },
+        "url": "https://a-global.by/product-cetco-insta-vis-dry.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CETCO INSTA-VIS DRY",
+            "item": "https://a-global.by/product-cetco-insta-vis-dry.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-cetco-rel-pac.php",
+    "status": 200,
+    "title": "CETCO REL-PAC — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 51,
+    "description": "Полианионная целлюлоза — понизитель фильтрации. CETCO. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 135,
+    "canonical": "https://a-global.by/product-cetco-rel-pac.php",
+    "h1": [
+      "CETCO REL-PAC"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CETCO REL-PAC",
+        "image": "https://a-global.by/img/generated/polymer-cetco-rel-pac.jpg",
+        "description": "Полианионная целлюлоза — понизитель фильтрации.",
+        "brand": {
+          "@type": "Brand",
+          "name": "CETCO"
+        },
+        "url": "https://a-global.by/product-cetco-rel-pac.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CETCO REL-PAC",
+            "item": "https://a-global.by/product-cetco-rel-pac.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-cetco-ultragel.php",
+    "status": 200,
+    "title": "CETCO Ultragel — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 52,
+    "description": "Бентонит CETCO для буровых растворов ГНБ. CETCO. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 129,
+    "canonical": "https://a-global.by/product-cetco-ultragel.php",
+    "h1": [
+      "CETCO Ultragel"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "CETCO Ultragel",
+        "image": "https://a-global.by/img/generated/bentonite-cetco-ultragel.jpg",
+        "description": "Бентонит CETCO для буровых растворов ГНБ.",
+        "brand": {
+          "@type": "Brand",
+          "name": "CETCO"
+        },
+        "url": "https://a-global.by/product-cetco-ultragel.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Бентониты",
+            "item": "https://a-global.by/category-bentonit.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "CETCO Ultragel",
+            "item": "https://a-global.by/product-cetco-ultragel.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-ditchwitch-hdd.php",
+    "status": 200,
+    "title": "Буровые установки Ditch Witch JT — купить | ANKO",
+    "title_len": 48,
+    "description": "Серия JT. Цифра в названии = усилие протяжки в тысячах фунтов. Ditch Witch, США. Продажа и подбор под объект. Доставка по РБ и СНГ. +375 29 652-67-09.",
+    "description_len": 150,
+    "canonical": "https://a-global.by/product-ditchwitch-hdd.php",
+    "h1": [
+      "Буровые установки Ditch Witch"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Буровые установки Ditch Witch",
+        "image": "https://a-global.by/img/product-ditchwitch-hdd.jpg",
+        "description": "Серия JT. Цифра в названии = усилие протяжки в тысячах фунтов.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Ditch Witch"
+        },
+        "url": "https://a-global.by/product-ditchwitch-hdd.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Буровые установки Ditch Witch",
+            "item": "https://a-global.by/product-ditchwitch-hdd.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-fdp-hdd.php",
+    "status": 200,
+    "title": "Установки ГНБ FDP — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 55,
+    "description": "Буровые установки ГНБ FDP. FDP. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 112,
+    "canonical": "https://a-global.by/product-fdp-hdd.php",
+    "h1": [
+      "Установки ГНБ FDP"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Установки ГНБ FDP",
+        "image": "https://a-global.by/img/product-fdp-hdd.jpg",
+        "description": "Буровые установки ГНБ FDP.",
+        "brand": {
+          "@type": "Brand",
+          "name": "DBRILL"
+        },
+        "url": "https://a-global.by/product-fdp-hdd.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Установки ГНБ FDP",
+            "item": "https://a-global.by/product-fdp-hdd.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-goodeng-hdd.php",
+    "status": 200,
+    "title": "Буровые установки Goodeng — купить в Минске | ANKO",
+    "title_len": 50,
+    "description": "Установки ГНБ китайского производства. Подбор под задачу и бюджет. Goodeng, Китай. Продажа и подбор под объект. Доставка по РБ и СНГ. +375 29 652-67-09.",
+    "description_len": 152,
+    "canonical": "https://a-global.by/product-goodeng-hdd.php",
+    "h1": [
+      "Буровые установки Goodeng"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Буровые установки Goodeng",
+        "image": "https://a-global.by/img/product-goodeng-hdd.jpg",
+        "description": "Установки ГНБ китайского производства. Подбор под задачу и бюджет.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Goodeng"
+        },
+        "url": "https://a-global.by/product-goodeng-hdd.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Буровые установки Goodeng",
+            "item": "https://a-global.by/product-goodeng-hdd.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-igla-20t.php",
+    "status": 200,
+    "title": "Установка прокола грунта Игла-20Т — купить | ANKO",
+    "title_len": 49,
+    "description": "Установка прокола грунта Игла-20Т, усилие 20 тонн. Продажа и подбор под задачи объекта. Доставка по Беларуси и СНГ. Цена по запросу.",
+    "description_len": 132,
+    "canonical": "https://a-global.by/product-igla-20t.php",
+    "h1": [
+      "Установка прокола грунта Игла-20Т"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Установка прокола грунта Игла-20Т",
+        "image": "https://a-global.by/img/product-igla-20t.jpg",
+        "description": "Установка прокола грунта, усилие 20 т.",
+        "brand": {
+          "@type": "Brand",
+          "name": "КЗБО"
+        },
+        "url": "https://a-global.by/product-igla-20t.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Установка прокола грунта Игла-20Т",
+            "item": "https://a-global.by/product-igla-20t.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-igla-20tvm.php",
+    "status": 200,
+    "title": "Установка прокола грунта Игла-20ТВМ — купить | ANKO",
+    "title_len": 51,
+    "description": "Установка прокола грунта Игла-20ТВМ, усилие 20 тонн, модификация Б. Продажа и подбор под объект. Доставка по РБ и СНГ. Цена по запросу.",
+    "description_len": 135,
+    "canonical": "https://a-global.by/product-igla-20tvm.php",
+    "h1": [
+      "Установка прокола грунта Игла-20ТВМ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Установка прокола грунта Игла-20ТВМ",
+        "image": "https://a-global.by/img/product-igla-20tvm.jpg",
+        "description": "Установка прокола грунта, усилие 20 т.",
+        "brand": {
+          "@type": "Brand",
+          "name": "КЗБО"
+        },
+        "url": "https://a-global.by/product-igla-20tvm.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Установка прокола грунта Игла-20ТВМ",
+            "item": "https://a-global.by/product-igla-20tvm.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-igla-32t.php",
+    "status": 200,
+    "title": "Установка прокола грунта Игла-32Т — купить | ANKO",
+    "title_len": 49,
+    "description": "Установка прокола грунта Игла-32Т, усилие 32 тонны. Для сложных грунтов и больших диаметров. Доставка по Беларуси и СНГ. Цена по запросу.",
+    "description_len": 137,
+    "canonical": "https://a-global.by/product-igla-32t.php",
+    "h1": [
+      "Установка прокола грунта Игла-32Т"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Установка прокола грунта Игла-32Т",
+        "image": "https://a-global.by/img/product-igla-32t.jpg",
+        "description": "Установка прокола грунта, усилие 32 т.",
+        "brand": {
+          "@type": "Brand",
+          "name": "КЗБО"
+        },
+        "url": "https://a-global.by/product-igla-32t.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Установка прокола грунта Игла-32Т",
+            "item": "https://a-global.by/product-igla-32t.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-kluch-trubnii.php",
+    "status": 200,
+    "title": "Ключи трубные для ГНБ — купить в Минске | ANKO",
+    "title_len": 46,
+    "description": "Инструмент для свинчивания и развинчивания резьбовых соединений. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 154,
+    "canonical": "https://a-global.by/product-kluch-trubnii.php",
+    "h1": [
+      "Ключи трубные"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Ключи трубные",
+        "image": "https://a-global.by/img/product-kluch-trubnii.jpg",
+        "description": "Инструмент для свинчивания и развинчивания резьбовых соединений.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-kluch-trubnii.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Ключи трубные",
+            "item": "https://a-global.by/product-kluch-trubnii.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-lokatori-digitrak.php",
+    "status": 200,
+    "title": "Локационные системы DigiTrak, SubSite для ГНБ | ANKO",
+    "title_len": 52,
+    "description": "Системы контроля положения буровой головы: глубина, уклон, поворот. Склад в Минске, доставка по Беларуси и СНГ. Подбор под задачу. +375 29 652-67-09.",
+    "description_len": 149,
+    "canonical": "https://a-global.by/product-lokatori-digitrak.php",
+    "h1": [
+      "DigiTrak Falcon F5+ и Subsite Marksman"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Локационные системы DigiTrak Falcon F5+ и Subsite Marksman",
+        "image": "https://a-global.by/img/product-lokatori-digitrak.jpg",
+        "description": "Локационные системы ГНБ DigiTrak Falcon F5+ и Subsite Marksman. Точная комплектация определяется выбранной моделью.",
+        "brand": [
+          {
+            "@type": "Brand",
+            "name": "DigiTrak"
+          },
+          {
+            "@type": "Brand",
+            "name": "Subsite"
+          }
+        ],
+        "url": "https://a-global.by/product-lokatori-digitrak.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Локационные системы",
+            "item": "https://a-global.by/category-lokacia.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Локационные системы DigiTrak и SubSite",
+            "item": "https://a-global.by/product-lokatori-digitrak.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-lokatori-rf.php",
+    "status": 200,
+    "title": "Локационные системы для ГНБ производства РФ | ANKO",
+    "title_len": 50,
+    "description": "Локационные системы российского производства для ГНБ: контроль глубины, уклона и направления. Подбор комплекта и доставка по Беларуси.",
+    "description_len": 134,
+    "canonical": "https://a-global.by/product-lokatori-rf.php",
+    "h1": [
+      "Локационные системы РФ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Локационные системы РФ",
+        "image": "https://a-global.by/img/product-lokatori-rf.jpg",
+        "description": "Локаторы российского производства. Подбор по частоте, глубине и совместимости. Изображение показывает типовой комплект без привязки к конкретному бренду.",
+        "brand": {
+          "@type": "Brand",
+          "name": "РФ"
+        },
+        "url": "https://a-global.by/product-lokatori-rf.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Локационные системы",
+            "item": "https://a-global.by/category-lokacia.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Локационные системы РФ",
+            "item": "https://a-global.by/product-lokatori-rf.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-mufta-startovoy.php",
+    "status": 200,
+    "title": "Муфта стартовой штанги ГНБ — купить | ANKO",
+    "title_len": 42,
+    "description": "Соединительный элемент стартовой штанги. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 130,
+    "canonical": "https://a-global.by/product-mufta-startovoy.php",
+    "h1": [
+      "Муфта стартовой штанги"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Муфта стартовой штанги",
+        "image": "https://a-global.by/img/product-mufta-startovoy.jpg",
+        "description": "Соединительный элемент стартовой штанги.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-mufta-startovoy.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Муфта стартовой штанги",
+            "item": "https://a-global.by/product-mufta-startovoy.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-geotek.php",
+    "status": 200,
+    "title": "GeoTek Normet — купить в Минске | ANKO",
+    "title_len": 38,
+    "description": "Линейка Normet GeoTek для геотехнических задач в подземном строительстве и горном деле.",
+    "description_len": 87,
+    "canonical": "https://a-global.by/product-normet-geotek.php",
+    "h1": [
+      "GeoTek — геотехнические решения"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "GeoTek",
+        "image": "https://a-global.by/img/product-normet-geotek.jpg",
+        "description": "Линейка Normet GeoTek для геотехнических задач в подземном строительстве и горном деле.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-geotek.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "GeoTek",
+            "item": "https://a-global.by/product-normet-geotek.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamacryl.php",
+    "status": 200,
+    "title": "TamAcryl Normet — купить в Минске | ANKO",
+    "title_len": 40,
+    "description": "Акрилатные гели Normet для инъекционной гидроизоляции. Обладают очень низкой вязкостью — проникают туда, куда не проходят цементные составы.",
+    "description_len": 140,
+    "canonical": "https://a-global.by/product-normet-tamacryl.php",
+    "h1": [
+      "TamAcryl — акрилатные инъекционные составы"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamAcryl",
+        "image": "https://a-global.by/img/product-normet-tamacryl.jpg",
+        "description": "Акрилатные гели Normet для инъекционной гидроизоляции. Обладают очень низкой вязкостью — проникают туда, куда не проходят цементные составы.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamacryl.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamAcryl",
+            "item": "https://a-global.by/product-normet-tamacryl.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamcem.php",
+    "status": 200,
+    "title": "TamCem Normet — купить в Минске | ANKO",
+    "title_len": 38,
+    "description": "Линейка химических добавок Normet для бетона, торкрет-бетона и инъекционных растворов: суперпластификаторы, добавки контроля гидратации, добавки для…",
+    "description_len": 149,
+    "canonical": "https://a-global.by/product-normet-tamcem.php",
+    "h1": [
+      "TamCem — добавки для бетона и растворов"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamCem",
+        "image": "https://a-global.by/img/product-normet-tamcem.jpg",
+        "description": "Линейка химических добавок Normet для бетона, торкрет-бетона и инъекционных растворов: суперпластификаторы, добавки контроля гидратации, доб",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamcem.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamCem",
+            "item": "https://a-global.by/product-normet-tamcem.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamcrete.php",
+    "status": 200,
+    "title": "TamCrete Normet — купить в Минске | ANKO",
+    "title_len": 40,
+    "description": "Цементные составы Normet для инъекции в породу, ремонта конструкций и герметизации: микроцементы, коллоидный кремнезём, безусадочные ремонтные составы.",
+    "description_len": 151,
+    "canonical": "https://a-global.by/product-normet-tamcrete.php",
+    "h1": [
+      "TamCrete — цементные системы для инъекции и ремонта"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamCrete",
+        "image": "https://a-global.by/img/product-normet-tamcrete.jpg",
+        "description": "Цементные составы Normet для инъекции в породу, ремонта конструкций и герметизации: микроцементы, коллоидный кремнезём, безусадочные ремонтн",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamcrete.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamCrete",
+            "item": "https://a-global.by/product-normet-tamcrete.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamgrease.php",
+    "status": 200,
+    "title": "TamGrease Normet — купить в Минске | ANKO",
+    "title_len": 41,
+    "description": "Смазочные материалы Normet для тоннелепроходческой техники, включая хвостовые смазки для щитовых ТПМК.",
+    "description_len": 102,
+    "canonical": "https://a-global.by/product-normet-tamgrease.php",
+    "h1": [
+      "TamGrease — смазочные составы"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamGrease",
+        "image": "https://a-global.by/img/product-normet-tamgrease.jpg",
+        "description": "Смазочные материалы Normet для тоннелепроходческой техники, включая хвостовые смазки для щитовых ТПМК.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamgrease.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamGrease",
+            "item": "https://a-global.by/product-normet-tamgrease.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tampur.php",
+    "status": 200,
+    "title": "TamPur Normet — купить в Минске | ANKO",
+    "title_len": 38,
+    "description": "Однокомпонентные полиуретановые смолы Normet для остановки водопритока и укрепления грунта. При контакте с водой смола вспенивается и заполняет трещину.",
+    "description_len": 152,
+    "canonical": "https://a-global.by/product-normet-tampur.php",
+    "h1": [
+      "TamPur — полиуретановые инъекционные смолы"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamPur",
+        "image": "https://a-global.by/img/product-normet-tampur.jpg",
+        "description": "Однокомпонентные полиуретановые смолы Normet для остановки водопритока и укрепления грунта. При контакте с водой смола вспенивается и заполн",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tampur.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamPur",
+            "item": "https://a-global.by/product-normet-tampur.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamrez.php",
+    "status": 200,
+    "title": "TamRez Normet — купить в Минске | ANKO",
+    "title_len": 38,
+    "description": "Эпоксидные инъекционные смолы и клеевые составы Normet для ремонта бетонных конструкций.",
+    "description_len": 88,
+    "canonical": "https://a-global.by/product-normet-tamrez.php",
+    "h1": [
+      "TamRez — эпоксидные смолы"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamRez",
+        "image": "https://a-global.by/img/product-normet-tamrez.jpg",
+        "description": "Эпоксидные инъекционные смолы и клеевые составы Normet для ремонта бетонных конструкций.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamrez.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamRez",
+            "item": "https://a-global.by/product-normet-tamrez.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamseal.php",
+    "status": 200,
+    "title": "TamSeal Normet — купить в Минске | ANKO",
+    "title_len": 39,
+    "description": "Гидроизоляционные мембраны Normet для тоннелей, подземных и водоудерживающих сооружений.",
+    "description_len": 88,
+    "canonical": "https://a-global.by/product-normet-tamseal.php",
+    "h1": [
+      "TamSeal — гидроизоляционные системы"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamSeal",
+        "image": "https://a-global.by/img/product-normet-tamseal.jpg",
+        "description": "Гидроизоляционные мембраны Normet для тоннелей, подземных и водоудерживающих сооружений.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamseal.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamSeal",
+            "item": "https://a-global.by/product-normet-tamseal.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamshot.php",
+    "status": 200,
+    "title": "TamShot Normet — купить в Минске | ANKO",
+    "title_len": 39,
+    "description": "Безщелочные ускорители схватывания Normet для набрызг-бетона, а также силикатные ускорители для растворов заобделочного нагнетания.",
+    "description_len": 131,
+    "canonical": "https://a-global.by/product-normet-tamshot.php",
+    "h1": [
+      "TamShot — ускорители для торкрет-бетона"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamShot",
+        "image": "https://a-global.by/img/product-normet-tamshot.jpg",
+        "description": "Безщелочные ускорители схватывания Normet для набрызг-бетона, а также силикатные ускорители для растворов заобделочного нагнетания.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamshot.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamShot",
+            "item": "https://a-global.by/product-normet-tamshot.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamsil.php",
+    "status": 200,
+    "title": "TamSil Normet — купить в Минске | ANKO",
+    "title_len": 38,
+    "description": "Силикатные инъекционные составы Normet для укрепления и герметизации грунтов и породы.",
+    "description_len": 86,
+    "canonical": "https://a-global.by/product-normet-tamsil.php",
+    "h1": [
+      "TamSil — силикатные составы"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamSil",
+        "image": "https://a-global.by/img/product-normet-tamsil.jpg",
+        "description": "Силикатные инъекционные составы Normet для укрепления и герметизации грунтов и породы.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamsil.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamSil",
+            "item": "https://a-global.by/product-normet-tamsil.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-normet-tamsoil.php",
+    "status": 200,
+    "title": "TamSoil Normet — купить в Минске | ANKO",
+    "title_len": 39,
+    "description": "Составы Normet для кондиционирования грунта при проходке тоннелепроходческими механизированными комплексами.",
+    "description_len": 108,
+    "canonical": "https://a-global.by/product-normet-tamsoil.php",
+    "h1": [
+      "TamSoil — кондиционирование грунта для ТПМК"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "TamSoil",
+        "image": "https://a-global.by/img/product-normet-tamsoil.jpg",
+        "description": "Составы Normet для кондиционирования грунта при проходке тоннелепроходческими механизированными комплексами.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Normet"
+        },
+        "url": "https://a-global.by/product-normet-tamsoil.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Химия Normet",
+            "item": "https://a-global.by/category-normet.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "TamSoil",
+            "item": "https://a-global.by/product-normet-tamsoil.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-nsu.php",
+    "status": 200,
+    "title": "Насосно-смесительный узел НСУ для ГНБ | ANKO",
+    "title_len": 44,
+    "description": "Установка для приготовления и подачи бурового раствора. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 145,
+    "canonical": "https://a-global.by/product-nsu.php",
+    "h1": [
+      "Насосно-смесительный узел (НСУ)"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Насосно-смесительный узел (НСУ)",
+        "image": "https://a-global.by/img/product-nsu.jpg",
+        "description": "Установка для приготовления и подачи бурового раствора.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Оборудование"
+        },
+        "url": "https://a-global.by/product-nsu.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Насосно-смесительный узел (НСУ)",
+            "item": "https://a-global.by/product-nsu.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-pe-pipe-gaz.php",
+    "status": 200,
+    "title": "ПЭ труба для газоснабжения — ГНБ, Минск | ANKO",
+    "title_len": 46,
+    "description": "Полиэтиленовая труба для протяжки методом ГНБ под газоснабжение. Склад в Минске, доставка по Беларуси и СНГ. Подбор под задачу. +375 29 652-67-09.",
+    "description_len": 146,
+    "canonical": "https://a-global.by/product-pe-pipe-gaz.php",
+    "h1": [
+      "ПЭ труба для газоснабжения"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "ПЭ труба для газоснабжения",
+        "image": "https://a-global.by/img/product-pe-pipe-gaz.jpg",
+        "description": "Полиэтиленовая труба для протяжки методом ГНБ под газоснабжение.",
+        "brand": {
+          "@type": "Brand",
+          "name": "ПЭ трубы"
+        },
+        "url": "https://a-global.by/product-pe-pipe-gaz.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ПЭ трубы",
+            "item": "https://a-global.by/category-trubi.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ПЭ труба для газоснабжения",
+            "item": "https://a-global.by/product-pe-pipe-gaz.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-pe-pipe-voda.php",
+    "status": 200,
+    "title": "ПЭ труба для водоснабжения — ГНБ, Минск | ANKO",
+    "title_len": 46,
+    "description": "Полиэтиленовая труба для протяжки методом ГНБ под водоснабжение. Склад в Минске, доставка по Беларуси и СНГ. Подбор под задачу. +375 29 652-67-09.",
+    "description_len": 146,
+    "canonical": "https://a-global.by/product-pe-pipe-voda.php",
+    "h1": [
+      "ПЭ труба для водоснабжения"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "ПЭ труба для водоснабжения",
+        "image": "https://a-global.by/img/product-pe-pipe-voda.jpg",
+        "description": "Полиэтиленовая труба для протяжки методом ГНБ под водоснабжение.",
+        "brand": {
+          "@type": "Brand",
+          "name": "ПЭ трубы"
+        },
+        "url": "https://a-global.by/product-pe-pipe-voda.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "ПЭ трубы",
+            "item": "https://a-global.by/category-trubi.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "ПЭ труба для водоснабжения",
+            "item": "https://a-global.by/product-pe-pipe-voda.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-phrikolat-pac.php",
+    "status": 200,
+    "title": "PHRIKOLAT PAC — понизитель фильтрации | ANKO",
+    "title_len": 44,
+    "description": "Полианионная целлюлоза — понизитель фильтрации. PHRIKOLAT, Германия. Склад в Минске, доставка по РБ и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 143,
+    "canonical": "https://a-global.by/product-phrikolat-pac.php",
+    "h1": [
+      "PHRIKOLAT PAC (L / LV / ULV)"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "PHRIKOLAT PAC (L / LV / ULV)",
+        "image": "https://a-global.by/img/generated/polymer-phrikolat-pac.jpg",
+        "description": "Полианионная целлюлоза — понизитель фильтрации.",
+        "brand": {
+          "@type": "Brand",
+          "name": "PHRIKOLAT"
+        },
+        "url": "https://a-global.by/product-phrikolat-pac.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "PHRIKOLAT PAC (L / LV / ULV)",
+            "item": "https://a-global.by/product-phrikolat-pac.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-phrikolat-rheopur.php",
+    "status": 200,
+    "title": "Полимер PHRIKOLAT Rheopur — купить в Минске | ANKO",
+    "title_len": 50,
+    "description": "Полимерная добавка для песка, гравия и смешанных грунтов. PHRIKOLAT, Германия. Склад в Минске, доставка по РБ и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 153,
+    "canonical": "https://a-global.by/product-phrikolat-rheopur.php",
+    "h1": [
+      "PHRIKOLAT Rheopur"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "PHRIKOLAT Rheopur",
+        "image": "https://a-global.by/img/generated/polymer-phrikolat-rheopur.jpg",
+        "description": "Полимерная добавка для песка, гравия и смешанных грунтов.",
+        "brand": {
+          "@type": "Brand",
+          "name": "PHRIKOLAT"
+        },
+        "url": "https://a-global.by/product-phrikolat-rheopur.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "PHRIKOLAT Rheopur",
+            "item": "https://a-global.by/product-phrikolat-rheopur.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-phrikolat-typ-w-premium.php",
+    "status": 200,
+    "title": "Бентонит PHRIKOLAT Typ W Premium — купить | ANKO",
+    "title_len": 48,
+    "description": "Премиум-бентонит для крупной техники ГНБ и длинных трасс. PHRIKOLAT, Германия. Склад в Минске, доставка по РБ и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 153,
+    "canonical": "https://a-global.by/product-phrikolat-typ-w-premium.php",
+    "h1": [
+      "PHRIKOLAT Bentonit Typ W Premium"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "PHRIKOLAT Bentonit Typ W Premium",
+        "image": "https://a-global.by/img/generated/bentonite-phrikolat-typ-w-premium.jpg",
+        "description": "Премиум-бентонит для крупной техники ГНБ и длинных трасс.",
+        "brand": {
+          "@type": "Brand",
+          "name": "PHRIKOLAT"
+        },
+        "url": "https://a-global.by/product-phrikolat-typ-w-premium.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Бентониты",
+            "item": "https://a-global.by/category-bentonit.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "PHRIKOLAT Bentonit Typ W Premium",
+            "item": "https://a-global.by/product-phrikolat-typ-w-premium.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-phrikolat-type-w.php",
+    "status": 200,
+    "title": "Бентонит PHRIKOLAT Typ W — купить в Минске | ANKO",
+    "title_len": 49,
+    "description": "Базовый вайомингский бентонит. Основа раствора для стандартных грунтов. PHRIKOLAT. Склад в Минске, доставка по РБ и СНГ. Цена — +375 29 652-67-09.",
+    "description_len": 146,
+    "canonical": "https://a-global.by/product-phrikolat-type-w.php",
+    "h1": [
+      "PHRIKOLAT Bentonit Typ W"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "PHRIKOLAT Bentonit Typ W",
+        "image": "https://a-global.by/img/generated/bentonite-phrikolat-typ-w.jpg",
+        "description": "Базовый вайомингский бентонит. Основа раствора для стандартных грунтов.",
+        "brand": {
+          "@type": "Brand",
+          "name": "PHRIKOLAT"
+        },
+        "url": "https://a-global.by/product-phrikolat-type-w.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Бентониты",
+            "item": "https://a-global.by/category-bentonit.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "PHRIKOLAT Bentonit Typ W",
+            "item": "https://a-global.by/product-phrikolat-type-w.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-phrikolat-w-plus.php",
+    "status": 200,
+    "title": "Бентонит PHRIKOLAT W plus — купить в Минске | ANKO",
+    "title_len": 50,
+    "description": "Универсальная односачная смесь: бентонит с полимером уже в составе. PHRIKOLAT, Германия. Склад в Минске, доставка по РБ и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 163,
+    "canonical": "https://a-global.by/product-phrikolat-w-plus.php",
+    "h1": [
+      "PHRIKOLAT Bentonit W plus"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "PHRIKOLAT Bentonit W plus",
+        "image": "https://a-global.by/img/generated/bentonite-phrikolat-w-plus.jpg",
+        "description": "Универсальная односачная смесь: бентонит с полимером уже в составе.",
+        "brand": {
+          "@type": "Brand",
+          "name": "PHRIKOLAT"
+        },
+        "url": "https://a-global.by/product-phrikolat-w-plus.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Бентониты",
+            "item": "https://a-global.by/category-bentonit.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "PHRIKOLAT Bentonit W plus",
+            "item": "https://a-global.by/product-phrikolat-w-plus.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-polymersplus-vis.php",
+    "status": 200,
+    "title": "PolymersPlus VIS — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 54,
+    "description": "Загуститель бурового раствора. PolymersPlus. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 125,
+    "canonical": "https://a-global.by/product-polymersplus-vis.php",
+    "h1": [
+      "PolymersPlus VIS"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "PolymersPlus VIS",
+        "image": "https://a-global.by/img/generated/polymer-polymersplus-vis.jpg",
+        "description": "Загуститель бурового раствора.",
+        "brand": {
+          "@type": "Brand",
+          "name": "PolymersPlus"
+        },
+        "url": "https://a-global.by/product-polymersplus-vis.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Полимеры и реагенты",
+            "item": "https://a-global.by/category-polimer.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "PolymersPlus VIS",
+            "item": "https://a-global.by/product-polymersplus-vis.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-rasshiritel.php",
+    "status": 200,
+    "title": "Расширители для ГНБ — купить в Минске | ANKO GLOBAL",
+    "title_len": 51,
+    "description": "Инструмент для увеличения диаметра пилотной скважины под трубу. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 153,
+    "canonical": "https://a-global.by/product-rasshiritel.php",
+    "h1": [
+      "Расширители (бэкримеры)"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Расширители (бэкримеры)",
+        "image": "https://a-global.by/img/product-rasshiritel.jpg",
+        "description": "Инструмент для увеличения диаметра пилотной скважины под трубу.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-rasshiritel.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Расширители (бэкримеры)",
+            "item": "https://a-global.by/product-rasshiritel.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-shtanga-burovaya.php",
+    "status": 200,
+    "title": "Штанги буровые — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 52,
+    "description": "Сварные и цельнокованные штанги для установок США и Китая. Буровой инструмент. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 159,
+    "canonical": "https://a-global.by/product-shtanga-burovaya.php",
+    "h1": [
+      "Штанги буровые"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Штанги буровые",
+        "image": "https://a-global.by/img/product-shtanga-burovaya.jpg",
+        "description": "Сварные и цельнокованные штанги для установок США и Китая.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-shtanga-burovaya.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Штанги буровые",
+            "item": "https://a-global.by/product-shtanga-burovaya.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-shtanga-startovaya.php",
+    "status": 200,
+    "title": "Штанги стартовые для ГНБ — купить | ANKO GLOBAL",
+    "title_len": 47,
+    "description": "Первая штанга колонны, работает в самых тяжёлых условиях. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 147,
+    "canonical": "https://a-global.by/product-shtanga-startovaya.php",
+    "h1": [
+      "Штанги стартовые"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Штанги стартовые",
+        "image": "https://a-global.by/img/product-shtanga-startovaya.jpg",
+        "description": "Первая штанга колонны, работает в самых тяжёлых условиях.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-shtanga-startovaya.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Штанги стартовые",
+            "item": "https://a-global.by/product-shtanga-startovaya.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-smazka-ditchwitch.php",
+    "status": 200,
+    "title": "Резьбовой состав для установок Ditch Witch | ANKO GLOBAL",
+    "title_len": 56,
+    "description": "Резьбовая смазка для буровых штанг и инструмента установок Ditch Witch. Точный SKU и производитель подтверждаются перед поставкой.",
+    "description_len": 130,
+    "canonical": "https://a-global.by/product-smazka-ditchwitch.php",
+    "h1": [
+      "Резьбовой состав для установок Ditch Witch"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Резьбовой состав для установок Ditch Witch",
+        "image": "https://a-global.by/img/product-smazka-ditchwitch.jpg",
+        "description": "Совместимый резьбовой состав для буровых штанг установок Ditch Witch; точный SKU подтверждается перед поставкой.",
+        "url": "https://a-global.by/product-smazka-ditchwitch.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Смазочные материалы",
+            "item": "https://a-global.by/category-smazki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Состав для Ditch Witch",
+            "item": "https://a-global.by/product-smazka-ditchwitch.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-smazka-jet-lube.php",
+    "status": 200,
+    "title": "Jet-Lube HDD Environmental — резьбовой состав | ANKO GLOBAL",
+    "title_len": 59,
+    "description": "Jet-Lube HDD Environmental — неметаллический, непроводящий резьбовой состав для штанг и соединений ГНБ.",
+    "description_len": 103,
+    "canonical": "https://a-global.by/product-smazka-jet-lube.php",
+    "h1": [
+      "Jet-Lube HDD Environmental"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Jet-Lube HDD Environmental",
+        "image": "https://a-global.by/img/product-smazka-jet-lube.jpg",
+        "description": "Неметаллический непроводящий резьбовой состав Jet-Lube HDD Environmental для буровых штанг и соединений ГНБ.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Jet-Lube"
+        },
+        "url": "https://a-global.by/product-smazka-jet-lube.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Смазочные материалы",
+            "item": "https://a-global.by/category-smazki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Jet-Lube HDD Environmental",
+            "item": "https://a-global.by/product-smazka-jet-lube.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-smazka-rf.php",
+    "status": 200,
+    "title": "Резьбовая смазка для буровых штанг — производство РФ | ANKO",
+    "title_len": 59,
+    "description": "Резьбовые составы российского производства для штанг ГНБ. Производитель, характеристики и сертификаты подтверждаются по партии.",
+    "description_len": 127,
+    "canonical": "https://a-global.by/product-smazka-rf.php",
+    "h1": [
+      "Резьбовая смазка для буровых штанг — РФ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Резьбовая смазка для буровых штанг — РФ",
+        "image": "https://a-global.by/img/product-smazka-rf.jpg",
+        "description": "Нейтральная категория резьбовых смазок российского производства для соединений буровых штанг.",
+        "url": "https://a-global.by/product-smazka-rf.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Смазочные материалы",
+            "item": "https://a-global.by/category-smazki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Резьбовая смазка РФ",
+            "item": "https://a-global.by/product-smazka-rf.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-smazka-vermeer.php",
+    "status": 200,
+    "title": "Vermeer Bio-Stick — смазка для ГНБ | ANKO GLOBAL",
+    "title_len": 48,
+    "description": "Vermeer Bio-Stick — смазка для резьбовых соединений и инструмента ГНБ. Подбор фасовки, поставка в Беларусь и СНГ.",
+    "description_len": 113,
+    "canonical": "https://a-global.by/product-smazka-vermeer.php",
+    "h1": [
+      "Vermeer Bio-Stick — смазка для ГНБ"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Vermeer Bio-Stick — смазка для ГНБ",
+        "image": "https://a-global.by/img/product-smazka-vermeer.jpg",
+        "description": "Смазка Vermeer Bio-Stick для обслуживания резьбовых соединений и инструмента ГНБ.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Vermeer"
+        },
+        "url": "https://a-global.by/product-smazka-vermeer.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Смазочные материалы",
+            "item": "https://a-global.by/category-smazki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Vermeer Bio-Stick",
+            "item": "https://a-global.by/product-smazka-vermeer.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-universal-hdd.php",
+    "status": 200,
+    "title": "Установки ГНБ Universal HDD — купить в Минске, цена | ANKO GLOBAL",
+    "title_len": 65,
+    "description": "Буровые установки ГНБ Universal HDD. Universal HDD. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 132,
+    "canonical": "https://a-global.by/product-universal-hdd.php",
+    "h1": [
+      "Установки ГНБ Universal HDD"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Установки ГНБ Universal HDD",
+        "image": "https://a-global.by/img/product-universal-hdd.jpg",
+        "description": "Буровые установки ГНБ Universal HDD.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Universal HDD"
+        },
+        "url": "https://a-global.by/product-universal-hdd.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Установки ГНБ Universal HDD",
+            "item": "https://a-global.by/product-universal-hdd.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-vermeer-hdd.php",
+    "status": 200,
+    "title": "Буровые установки Vermeer Navigator — купить | ANKO",
+    "title_len": 51,
+    "description": "Серия Navigator. Внимание: цифры в названии не равны усилию протяжки. Vermeer, США. Продажа и подбор под объект. Доставка по РБ и СНГ. +375 29 652-67-09.",
+    "description_len": 153,
+    "canonical": "https://a-global.by/product-vermeer-hdd.php",
+    "h1": [
+      "Буровые установки Vermeer"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Буровые установки Vermeer",
+        "image": "https://a-global.by/img/product-vermeer-hdd.jpg",
+        "description": "Серия Navigator. Внимание: цифры в названии не равны усилию протяжки.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Vermeer"
+        },
+        "url": "https://a-global.by/product-vermeer-hdd.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Буровые установки Vermeer",
+            "item": "https://a-global.by/product-vermeer-hdd.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-vertlugi.php",
+    "status": 200,
+    "title": "Вертлюги для ГНБ — купить в Минске | ANKO GLOBAL",
+    "title_len": 48,
+    "description": "Развязывают вращение буровой колонны и протягиваемую трубу. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 149,
+    "canonical": "https://a-global.by/product-vertlugi.php",
+    "h1": [
+      "Вертлюги"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Вертлюги",
+        "image": "https://a-global.by/img/product-vertlugi.jpg",
+        "description": "Развязывают вращение буровой колонны и протягиваемую трубу.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-vertlugi.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Вертлюги",
+            "item": "https://a-global.by/product-vertlugi.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-vkladishi-tiskov.php",
+    "status": 200,
+    "title": "Вкладыши тисков буровой установки | ANKO GLOBAL",
+    "title_len": 47,
+    "description": "Расходник зажимного узла буровой установки. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 133,
+    "canonical": "https://a-global.by/product-vkladishi-tiskov.php",
+    "h1": [
+      "Вкладыши (губки) тисков"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Вкладыши (губки) тисков",
+        "image": "https://a-global.by/img/product-vkladishi-tiskov.jpg",
+        "description": "Расходник зажимного узла буровой установки.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-vkladishi-tiskov.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Вкладыши (губки) тисков",
+            "item": "https://a-global.by/product-vkladishi-tiskov.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-vstavki-nozha.php",
+    "status": 200,
+    "title": "Твердосплавные вставки бурового ножа | ANKO",
+    "title_len": 43,
+    "description": "Расходные твердосплавные элементы для буровых ножей. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 142,
+    "canonical": "https://a-global.by/product-vstavki-nozha.php",
+    "h1": [
+      "Твердосплавные вставки ножа"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Твердосплавные вставки ножа",
+        "image": "https://a-global.by/img/product-vstavki-nozha.jpg",
+        "description": "Расходные твердосплавные элементы для буровых ножей.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-vstavki-nozha.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Твердосплавные вставки ножа",
+            "item": "https://a-global.by/product-vstavki-nozha.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-wamet-add.php",
+    "status": 200,
+    "title": "Установки шнекового бурения WAMET | ANKO",
+    "title_len": 40,
+    "description": "Установки шнекового бурения. WAMET. Склад в Минске, доставка по Беларуси и СНГ. Цена по запросу — +375 29 652-67-09.",
+    "description_len": 116,
+    "canonical": "https://a-global.by/product-wamet-add.php",
+    "h1": [
+      "Установки шнекового бурения WAMET"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Установки шнекового бурения WAMET",
+        "image": "https://a-global.by/img/product-wamet-add.jpg",
+        "description": "Установки шнекового бурения.",
+        "brand": {
+          "@type": "Brand",
+          "name": "WAMET"
+        },
+        "url": "https://a-global.by/product-wamet-add.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Установки шнекового бурения WAMET",
+            "item": "https://a-global.by/product-wamet-add.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-xcmg-hdd.php",
+    "status": 200,
+    "title": "Буровые установки XCMG XZ — купить в Минске | ANKO",
+    "title_len": 50,
+    "description": "Модельный ряд XZ — от лёгких машин до тяжёлых установок. XCMG, Китай. Продажа и подбор под объект. Доставка по РБ и СНГ. +375 29 652-67-09.",
+    "description_len": 139,
+    "canonical": "https://a-global.by/product-xcmg-hdd.php",
+    "h1": [
+      "Буровые установки XCMG"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Буровые установки XCMG",
+        "image": "https://a-global.by/img/product-xcmg-hdd.jpg",
+        "description": "Модельный ряд XZ — от лёгких машин до тяжёлых установок.",
+        "brand": {
+          "@type": "Brand",
+          "name": "XCMG"
+        },
+        "url": "https://a-global.by/product-xcmg-hdd.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровые установки",
+            "item": "https://a-global.by/category-ustanovki.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Буровые установки XCMG",
+            "item": "https://a-global.by/product-xcmg-hdd.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-zahvat-tsangovii.php",
+    "status": 200,
+    "title": "Цанговые захваты для ПЭ труб — купить | ANKO",
+    "title_len": 44,
+    "description": "Захват для протяжки полиэтиленовой трубы. Склад в Минске, доставка по Беларуси и СНГ. Подбор под вашу установку. +375 29 652-67-09.",
+    "description_len": 131,
+    "canonical": "https://a-global.by/product-zahvat-tsangovii.php",
+    "h1": [
+      "Захваты цанговые для ПЭ труб"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Захваты цанговые для ПЭ труб",
+        "image": "https://a-global.by/img/product-zahvat-tsangovii.jpg",
+        "description": "Захват для протяжки полиэтиленовой трубы.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Буровой инструмент"
+        },
+        "url": "https://a-global.by/product-zahvat-tsangovii.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Буровой инструмент",
+            "item": "https://a-global.by/category-instrument.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Захваты цанговые для ПЭ труб",
+            "item": "https://a-global.by/product-zahvat-tsangovii.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "product-zondi.php",
+    "status": 200,
+    "title": "Зонды для локационных систем ГНБ — купить | ANKO",
+    "title_len": 48,
+    "description": "Зонды и передатчики для локационных систем ГНБ. Подбор по модели приёмника, частоте и условиям помех. Доставка по Беларуси и СНГ.",
+    "description_len": 129,
+    "canonical": "https://a-global.by/product-zondi.php",
+    "h1": [
+      "Зонды (передатчики)"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [
+      {
+        "@context": "https://schema.org",
+        "@type": "Product",
+        "name": "Зонды (передатчики)",
+        "image": "https://a-global.by/img/product-zondi.jpg",
+        "description": "Передатчик для буровой головы. Изображение показывает типовой корпус без привязки к конкретной модели.",
+        "brand": {
+          "@type": "Brand",
+          "name": "Зонды"
+        },
+        "url": "https://a-global.by/product-zondi.php"
+      },
+      {
+        "@context": "https://schema.org",
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Главная",
+            "item": "https://a-global.by/"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Каталог",
+            "item": "https://a-global.by/catalog.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 3,
+            "name": "Локационные системы",
+            "item": "https://a-global.by/category-lokacia.php"
+          },
+          {
+            "@type": "ListItem",
+            "position": 4,
+            "name": "Зонды (передатчики)",
+            "item": "https://a-global.by/product-zondi.php"
+          }
+        ]
+      }
+    ],
+    "robots": "index,follow,max-image-preview:large,max-snippet:-1,max-video-preview:-1"
+  },
+  {
+    "page": "send.php",
+    "status": 405,
+    "title": "",
+    "title_len": 0,
+    "description": "",
+    "description_len": 0,
+    "canonical": "",
+    "h1": [],
+    "jsonld_errors": [],
+    "jsonld": [],
+    "robots": ""
+  },
+  {
+    "page": "thanks.php",
+    "status": 200,
+    "title": "Заявка принята — спасибо! | ANKO GLOBAL",
+    "title_len": 39,
+    "description": "Спасибо за заявку. Менеджер ANKO GLOBAL перезвонит вам в рабочее время.",
+    "description_len": 71,
+    "canonical": "https://a-global.by/thanks.php",
+    "h1": [
+      "Спасибо! Заявка принята"
+    ],
+    "jsonld_errors": [],
+    "jsonld": [],
+    "robots": "noindex,follow"
+  }
+]

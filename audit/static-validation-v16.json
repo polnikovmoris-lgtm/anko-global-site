@@ -1,0 +1,12 @@
+{
+  "php_files_checked": 86,
+  "product_pages_total": 69,
+  "sitemap_xml": "valid",
+  "js_syntax": "valid",
+  "errors": [
+    "about.php: php tag mismatch",
+    "contacts.php: php tag mismatch",
+    "index.php: php tag mismatch",
+    "send.php: php tag mismatch"
+  ]
+}

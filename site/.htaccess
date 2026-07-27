@@ -1,0 +1,73 @@
+# ANKO GLOBAL — серверные настройки
+
+# Кодировка
+AddDefaultCharset UTF-8
+
+# Главная страница
+DirectoryIndex index.php
+ErrorDocument 404 /404.php
+
+# Запрещаем листинг каталогов
+Options -Indexes
+
+# ── HTTPS и канонический домен ────────────────────────────────
+RewriteEngine On
+
+# /index.php — только канонический корень
+RewriteCond %{THE_REQUEST} \s/+index\.php(?:[?\s]) [NC]
+RewriteRule ^index\.php$ https://ankoglobal.by/ [R=301,L,NE]
+
+# ── Редиректы со старых .html на .php (если были проиндексированы) ──
+RewriteCond %{THE_REQUEST} \s/+(.+?)\.html(?:[\s?]) [NC]
+RewriteRule ^(.+)\.html$ https://ankoglobal.by/$1.php [R=301,L,NE]
+
+# Старый домен: сохраняем путь и строку запроса, меняем только хост
+RewriteCond %{HTTP_HOST} ^(?:www\.)?a-line\.by$ [NC]
+RewriteRule ^ https://ankoglobal.by%{REQUEST_URI} [R=301,L,NE]
+
+# HTTP, www и любой другой неканонический вариант переводим одним редиректом
+RewriteCond %{HTTPS} !=on [OR]
+RewriteCond %{HTTP_HOST} !^ankoglobal\.by$ [NC]
+RewriteRule ^ https://ankoglobal.by%{REQUEST_URI} [R=301,L,NE]
+
+# ── Кэширование статики ───────────────────────────────────────
+<IfModule mod_expires.c>
+  ExpiresActive On
+  ExpiresByType text/css "access plus 30 days"
+  ExpiresByType application/javascript "access plus 30 days"
+  ExpiresByType image/jpeg "access plus 30 days"
+  ExpiresByType image/png "access plus 30 days"
+  ExpiresByType image/svg+xml "access plus 30 days"
+  ExpiresByType image/webp "access plus 30 days"
+</IfModule>
+
+# ── Сжатие ────────────────────────────────────────────────────
+<IfModule mod_deflate.c>
+  AddOutputFilterByType DEFLATE text/html text/css application/javascript text/plain application/json image/svg+xml
+</IfModule>
+
+<IfModule mod_brotli.c>
+  AddOutputFilterByType BROTLI_COMPRESS text/html text/css application/javascript text/plain application/json image/svg+xml application/xml
+</IfModule>
+
+# ── Базовые заголовки безопасности ────────────────────────────
+<IfModule mod_headers.c>
+  Header always set X-Content-Type-Options "nosniff"
+  Header always set X-Frame-Options "SAMEORIGIN"
+  Header always set Referrer-Policy "strict-origin-when-cross-origin"
+  Header always set Permissions-Policy "camera=(), microphone=(), geolocation=()"
+  Header always set Strict-Transport-Security "max-age=31536000; includeSubDomains" "expr=%{HTTPS} == 'on'"
+</IfModule>
+
+# ── Защита служебных файлов ───────────────────────────────────
+<FilesMatch "(^\.|\.(md|py|json|csv|sha256)$)">
+  Require all denied
+</FilesMatch>
+<Files "inc/config.php">
+  Require all denied
+</Files>
+
+# Запрет прямого вызова подключаемых частей (их видно только через include)
+<FilesMatch "^(head|footer|config)\.php$">
+  Require all denied
+</FilesMatch>

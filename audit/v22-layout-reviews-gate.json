@@ -1,0 +1,76 @@
+{
+  "status": "passed",
+  "checks": {
+    "about.php_wide_container": true,
+    "delivery.php_wide_container": true,
+    "delivery_order_steps": true,
+    "reviews_section": true,
+    "review_letters": true,
+    "css_mirror": true,
+    "full_wrap": true,
+    "info_page_rule": true,
+    "three_desktop_steps": true,
+    "two_tablet_letters": true,
+    "one_narrow_letter": true,
+    "reviews_navigation": true
+  },
+  "review_images": [
+    {
+      "full": "hydrogeoservice-letter.jpg",
+      "thumb": "hydrogeoservice-letter-thumb.webp",
+      "status": "passed",
+      "original_hash_matches": true,
+      "full_size": [
+        1654,
+        2339
+      ],
+      "thumb_size": [
+        640,
+        905
+      ]
+    },
+    {
+      "full": "bursetstroy-letter.jpg",
+      "thumb": "bursetstroy-letter-thumb.webp",
+      "status": "passed",
+      "original_hash_matches": true,
+      "full_size": [
+        1654,
+        2339
+      ],
+      "thumb_size": [
+        640,
+        905
+      ]
+    },
+    {
+      "full": "minskmetrostroy-letter.jpg",
+      "thumb": "minskmetrostroy-letter-thumb.webp",
+      "status": "passed",
+      "original_hash_matches": true,
+      "full_size": [
+        1654,
+        2339
+      ],
+      "thumb_size": [
+        640,
+        905
+      ]
+    },
+    {
+      "full": "proftec-letter.jpg",
+      "thumb": "proftec-letter-thumb.webp",
+      "status": "passed",
+      "original_hash_matches": true,
+      "full_size": [
+        1654,
+        2339
+      ],
+      "thumb_size": [
+        640,
+        905
+      ]
+    }
+  ],
+  "errors": []
+}

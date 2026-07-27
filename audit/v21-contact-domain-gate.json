@@ -1,0 +1,36 @@
+{
+  "status": "passed",
+  "canonical_domain": "https://ankoglobal.by",
+  "company": "ООО «Анко-глобал»",
+  "email": "main.accentline@gmail.com",
+  "counts": {
+    "php_files": 90,
+    "jsonld_blocks": 163,
+    "sitemap_urls": 81,
+    "sitemap_image_urls": 76,
+    "local_references_checked": 1059,
+    "company_occurrences": 8,
+    "email_occurrences": 11,
+    "canonical_domain_occurrences": 762
+  },
+  "old_occurrences": {
+    "ООО «АкцентЛайн Групп»": [],
+    "info@a-global.by": [],
+    "info@a-line.by": [],
+    "https://a-global.by": []
+  },
+  "mailto_values": [
+    "main.accentline@gmail.com"
+  ],
+  "organization_alternate_names": [
+    "ООО «Анко-глобал»"
+  ],
+  "redirect_checks": {
+    "old_host_condition": true,
+    "old_host_target": true,
+    "canonical_host_condition": true
+  },
+  "invalid_jsonld": [],
+  "missing_local_references": [],
+  "errors": []
+}

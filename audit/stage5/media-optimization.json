@@ -1,0 +1,1797 @@
+{
+  "started_at": "2026-07-24T09:34:07.493Z",
+  "finished_at": "2026-07-24T09:34:07.494Z",
+  "totals": {
+    "before_jpeg": 8996478,
+    "after_jpeg": 6197135,
+    "jpeg_saved": 2799343,
+    "responsive_webp_bytes": 3246206
+  },
+  "images": [
+    {
+      "path": "img/cat-bentonit.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 20545,
+      "outputs": {
+        "jpeg": {
+          "size": 14716,
+          "replaced": true,
+          "old": 20545
+        },
+        "webp": {
+          "path": "img/cat-bentonit.webp",
+          "size": 4292,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/cat-instrument.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 22181,
+      "outputs": {
+        "jpeg": {
+          "size": 14978,
+          "replaced": true,
+          "old": 22181
+        },
+        "webp": {
+          "path": "img/cat-instrument.webp",
+          "size": 6124,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/cat-komplekt.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 18078,
+      "outputs": {
+        "jpeg": {
+          "size": 12628,
+          "replaced": true,
+          "old": 18078
+        },
+        "webp": {
+          "path": "img/cat-komplekt.webp",
+          "size": 3762,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/cat-lokacia.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 18816,
+      "outputs": {
+        "jpeg": {
+          "size": 12795,
+          "replaced": true,
+          "old": 18816
+        },
+        "webp": {
+          "path": "img/cat-lokacia.webp",
+          "size": 4440,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/cat-pnd.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 23604,
+      "outputs": {
+        "jpeg": {
+          "size": 16030,
+          "replaced": true,
+          "old": 23604
+        },
+        "webp": {
+          "path": "img/cat-pnd.webp",
+          "size": 5870,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/cat-polimery.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 17929,
+      "outputs": {
+        "jpeg": {
+          "size": 12335,
+          "replaced": true,
+          "old": 17929
+        },
+        "webp": {
+          "path": "img/cat-polimery.webp",
+          "size": 4070,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/cat-smazki.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 17673,
+      "outputs": {
+        "jpeg": {
+          "size": 11845,
+          "replaced": true,
+          "old": 17673
+        },
+        "webp": {
+          "path": "img/cat-smazki.webp",
+          "size": 4046,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/cat-ustanovki.jpg",
+      "width": 640,
+      "height": 400,
+      "before": 20369,
+      "outputs": {
+        "jpeg": {
+          "size": 13855,
+          "replaced": true,
+          "old": 20369
+        },
+        "webp": {
+          "path": "img/cat-ustanovki.webp",
+          "size": 5110,
+          "replaced": true,
+          "old": null
+        }
+      }
+    },
+    {
+      "path": "img/generated/bentonite-ankobent-ultra.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 177965,
+      "outputs": {
+        "jpeg": {
+          "size": 113014,
+          "replaced": true,
+          "old": 177965
+        },
+        "webp": {
+          "path": "img/generated/bentonite-ankobent-ultra.webp",
+          "size": 72172,
+          "replaced": true,
+          "old": 116552
+        },
+        "webp_640": {
+          "path": "img/generated/bentonite-ankobent-ultra-640.webp",
+          "size": 22718
+        },
+        "webp_960": {
+          "path": "img/generated/bentonite-ankobent-ultra-960.webp",
+          "size": 45390
+        }
+      }
+    },
+    {
+      "path": "img/generated/bentonite-baulux-horizont-pr.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 156799,
+      "outputs": {
+        "jpeg": {
+          "size": 127779,
+          "replaced": true,
+          "old": 156799
+        },
+        "webp": {
+          "path": "img/generated/bentonite-baulux-horizont-pr.webp",
+          "size": 84964,
+          "replaced": false,
+          "old": 84964
+        },
+        "webp_640": {
+          "path": "img/generated/bentonite-baulux-horizont-pr-640.webp",
+          "size": 20846
+        },
+        "webp_960": {
+          "path": "img/generated/bentonite-baulux-horizont-pr-960.webp",
+          "size": 48794
+        }
+      }
+    },
+    {
+      "path": "img/generated/bentonite-cetco-ultragel.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 123818,
+      "outputs": {
+        "jpeg": {
+          "size": 97462,
+          "replaced": true,
+          "old": 123818
+        },
+        "webp": {
+          "path": "img/generated/bentonite-cetco-ultragel.webp",
+          "size": 51086,
+          "replaced": false,
+          "old": 51086
+        },
+        "webp_640": {
+          "path": "img/generated/bentonite-cetco-ultragel-640.webp",
+          "size": 16238
+        },
+        "webp_960": {
+          "path": "img/generated/bentonite-cetco-ultragel-960.webp",
+          "size": 31420
+        }
+      }
+    },
+    {
+      "path": "img/generated/bentonite-phrikolat-typ-w-premium.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 142895,
+      "outputs": {
+        "jpeg": {
+          "size": 113181,
+          "replaced": true,
+          "old": 142895
+        },
+        "webp": {
+          "path": "img/generated/bentonite-phrikolat-typ-w-premium.webp",
+          "size": 72614,
+          "replaced": false,
+          "old": 72614
+        },
+        "webp_640": {
+          "path": "img/generated/bentonite-phrikolat-typ-w-premium-640.webp",
+          "size": 15308
+        },
+        "webp_960": {
+          "path": "img/generated/bentonite-phrikolat-typ-w-premium-960.webp",
+          "size": 36272
+        }
+      }
+    },
+    {
+      "path": "img/generated/bentonite-phrikolat-typ-w.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 121475,
+      "outputs": {
+        "jpeg": {
+          "size": 94989,
+          "replaced": true,
+          "old": 121475
+        },
+        "webp": {
+          "path": "img/generated/bentonite-phrikolat-typ-w.webp",
+          "size": 50706,
+          "replaced": false,
+          "old": 50706
+        },
+        "webp_640": {
+          "path": "img/generated/bentonite-phrikolat-typ-w-640.webp",
+          "size": 16306
+        },
+        "webp_960": {
+          "path": "img/generated/bentonite-phrikolat-typ-w-960.webp",
+          "size": 32230
+        }
+      }
+    },
+    {
+      "path": "img/generated/bentonite-phrikolat-w-plus.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 123079,
+      "outputs": {
+        "jpeg": {
+          "size": 96633,
+          "replaced": true,
+          "old": 123079
+        },
+        "webp": {
+          "path": "img/generated/bentonite-phrikolat-w-plus.webp",
+          "size": 48578,
+          "replaced": false,
+          "old": 48578
+        },
+        "webp_640": {
+          "path": "img/generated/bentonite-phrikolat-w-plus-640.webp",
+          "size": 15876
+        },
+        "webp_960": {
+          "path": "img/generated/bentonite-phrikolat-w-plus-960.webp",
+          "size": 30456
+        }
+      }
+    },
+    {
+      "path": "img/generated/hero-generated-anko.jpg",
+      "width": 1200,
+      "height": 960,
+      "before": 240282,
+      "outputs": {
+        "jpeg": {
+          "size": 170601,
+          "replaced": true,
+          "old": 240282
+        },
+        "webp": {
+          "path": "img/generated/hero-generated-anko.webp",
+          "size": 110204,
+          "replaced": true,
+          "old": 137392
+        },
+        "webp_640": {
+          "path": "img/generated/hero-generated-anko-640.webp",
+          "size": 49050
+        },
+        "webp_960": {
+          "path": "img/generated/hero-generated-anko-960.webp",
+          "size": 80854
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-baulux-pbma.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 181469,
+      "outputs": {
+        "jpeg": {
+          "size": 144719,
+          "replaced": true,
+          "old": 181469
+        },
+        "webp": {
+          "path": "img/generated/polymer-baulux-pbma.webp",
+          "size": 101536,
+          "replaced": false,
+          "old": 101536
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-baulux-pbma-640.webp",
+          "size": 22266
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-baulux-pbma-960.webp",
+          "size": 53366
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-baulux-pbmb.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 148220,
+      "outputs": {
+        "jpeg": {
+          "size": 117277,
+          "replaced": true,
+          "old": 148220
+        },
+        "webp": {
+          "path": "img/generated/polymer-baulux-pbmb.webp",
+          "size": 70964,
+          "replaced": false,
+          "old": 70964
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-baulux-pbmb-640.webp",
+          "size": 17502
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-baulux-pbmb-960.webp",
+          "size": 37746
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-baulux-pbmv.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 143428,
+      "outputs": {
+        "jpeg": {
+          "size": 114751,
+          "replaced": true,
+          "old": 143428
+        },
+        "webp": {
+          "path": "img/generated/polymer-baulux-pbmv.webp",
+          "size": 66376,
+          "replaced": false,
+          "old": 66376
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-baulux-pbmv-640.webp",
+          "size": 16162
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-baulux-pbmv-960.webp",
+          "size": 37110
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-bentolux-pac-hv.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 103861,
+      "outputs": {
+        "jpeg": {
+          "size": 81904,
+          "replaced": true,
+          "old": 103861
+        },
+        "webp": {
+          "path": "img/generated/polymer-bentolux-pac-hv.webp",
+          "size": 40926,
+          "replaced": false,
+          "old": 40926
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-bentolux-pac-hv-640.webp",
+          "size": 13268
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-bentolux-pac-hv-960.webp",
+          "size": 25422
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-cetco-insta-vis-dry.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 117367,
+      "outputs": {
+        "jpeg": {
+          "size": 91459,
+          "replaced": true,
+          "old": 117367
+        },
+        "webp": {
+          "path": "img/generated/polymer-cetco-insta-vis-dry.webp",
+          "size": 46706,
+          "replaced": false,
+          "old": 46706
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-cetco-insta-vis-dry-640.webp",
+          "size": 15074
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-cetco-insta-vis-dry-960.webp",
+          "size": 28608
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-cetco-rel-pac.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 130417,
+      "outputs": {
+        "jpeg": {
+          "size": 102484,
+          "replaced": true,
+          "old": 130417
+        },
+        "webp": {
+          "path": "img/generated/polymer-cetco-rel-pac.webp",
+          "size": 56318,
+          "replaced": false,
+          "old": 56318
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-cetco-rel-pac-640.webp",
+          "size": 17012
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-cetco-rel-pac-960.webp",
+          "size": 34606
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-phrikolat-pac.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 169284,
+      "outputs": {
+        "jpeg": {
+          "size": 117365,
+          "replaced": true,
+          "old": 169284
+        },
+        "webp": {
+          "path": "img/generated/polymer-phrikolat-pac.webp",
+          "size": 66494,
+          "replaced": true,
+          "old": 89094
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-phrikolat-pac-640.webp",
+          "size": 20624
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-phrikolat-pac-960.webp",
+          "size": 37952
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-phrikolat-rheopur.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 127350,
+      "outputs": {
+        "jpeg": {
+          "size": 87628,
+          "replaced": true,
+          "old": 127350
+        },
+        "webp": {
+          "path": "img/generated/polymer-phrikolat-rheopur.webp",
+          "size": 43238,
+          "replaced": true,
+          "old": 60484
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-phrikolat-rheopur-640.webp",
+          "size": 13288
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-phrikolat-rheopur-960.webp",
+          "size": 24512
+        }
+      }
+    },
+    {
+      "path": "img/generated/polymer-polymersplus-vis.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 93804,
+      "outputs": {
+        "jpeg": {
+          "size": 72926,
+          "replaced": true,
+          "old": 93804
+        },
+        "webp": {
+          "path": "img/generated/polymer-polymersplus-vis.webp",
+          "size": 34036,
+          "replaced": false,
+          "old": 34036
+        },
+        "webp_640": {
+          "path": "img/generated/polymer-polymersplus-vis-640.webp",
+          "size": 11464
+        },
+        "webp_960": {
+          "path": "img/generated/polymer-polymersplus-vis-960.webp",
+          "size": 21802
+        }
+      }
+    },
+    {
+      "path": "img/og-image.jpg",
+      "width": 1200,
+      "height": 630,
+      "before": 115204,
+      "outputs": {
+        "jpeg": {
+          "size": 100334,
+          "replaced": true,
+          "old": 115204
+        }
+      }
+    },
+    {
+      "path": "img/product-adapter.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 176304,
+      "outputs": {
+        "jpeg": {
+          "size": 98239,
+          "replaced": true,
+          "old": 176304
+        },
+        "webp": {
+          "path": "img/product-adapter.webp",
+          "size": 44070,
+          "replaced": false,
+          "old": 44070
+        },
+        "webp_640": {
+          "path": "img/product-adapter-640.webp",
+          "size": 13576
+        },
+        "webp_960": {
+          "path": "img/product-adapter-960.webp",
+          "size": 29590
+        }
+      }
+    },
+    {
+      "path": "img/product-burovie-golovi.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 158110,
+      "outputs": {
+        "jpeg": {
+          "size": 84426,
+          "replaced": true,
+          "old": 158110
+        },
+        "webp": {
+          "path": "img/product-burovie-golovi.webp",
+          "size": 35892,
+          "replaced": false,
+          "old": 35892
+        },
+        "webp_640": {
+          "path": "img/product-burovie-golovi-640.webp",
+          "size": 10914
+        },
+        "webp_960": {
+          "path": "img/product-burovie-golovi-960.webp",
+          "size": 24166
+        }
+      }
+    },
+    {
+      "path": "img/product-burovoi-nozh.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 161433,
+      "outputs": {
+        "jpeg": {
+          "size": 87040,
+          "replaced": true,
+          "old": 161433
+        },
+        "webp": {
+          "path": "img/product-burovoi-nozh.webp",
+          "size": 40822,
+          "replaced": false,
+          "old": 40822
+        },
+        "webp_640": {
+          "path": "img/product-burovoi-nozh-640.webp",
+          "size": 11006
+        },
+        "webp_960": {
+          "path": "img/product-burovoi-nozh-960.webp",
+          "size": 27090
+        }
+      }
+    },
+    {
+      "path": "img/product-burovoi-pilot.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 164232,
+      "outputs": {
+        "jpeg": {
+          "size": 89403,
+          "replaced": true,
+          "old": 164232
+        },
+        "webp": {
+          "path": "img/product-burovoi-pilot.webp",
+          "size": 37810,
+          "replaced": false,
+          "old": 37810
+        },
+        "webp_640": {
+          "path": "img/product-burovoi-pilot-640.webp",
+          "size": 12578
+        },
+        "webp_960": {
+          "path": "img/product-burovoi-pilot-960.webp",
+          "size": 27294
+        }
+      }
+    },
+    {
+      "path": "img/product-ditchwitch-hdd.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 228381,
+      "outputs": {
+        "jpeg": {
+          "size": 175768,
+          "replaced": true,
+          "old": 228381
+        },
+        "webp": {
+          "path": "img/product-ditchwitch-hdd.webp",
+          "size": 114094,
+          "replaced": false,
+          "old": 114094
+        },
+        "webp_640": {
+          "path": "img/product-ditchwitch-hdd-640.webp",
+          "size": 37794
+        },
+        "webp_960": {
+          "path": "img/product-ditchwitch-hdd-960.webp",
+          "size": 78700
+        }
+      }
+    },
+    {
+      "path": "img/product-fdp-hdd.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 65366,
+      "outputs": {
+        "jpeg": {
+          "size": 48628,
+          "replaced": true,
+          "old": 65366
+        },
+        "webp": {
+          "path": "img/product-fdp-hdd.webp",
+          "size": 25768,
+          "replaced": false,
+          "old": 25768
+        },
+        "webp_640": {
+          "path": "img/product-fdp-hdd-640.webp",
+          "size": 11528
+        },
+        "webp_960": {
+          "path": "img/product-fdp-hdd-960.webp",
+          "size": 19586
+        }
+      }
+    },
+    {
+      "path": "img/product-goodeng-hdd.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 146288,
+      "outputs": {
+        "jpeg": {
+          "size": 89354,
+          "replaced": true,
+          "old": 146288
+        },
+        "webp": {
+          "path": "img/product-goodeng-hdd.webp",
+          "size": 53544,
+          "replaced": false,
+          "old": 53544
+        },
+        "webp_640": {
+          "path": "img/product-goodeng-hdd-640.webp",
+          "size": 20184
+        },
+        "webp_960": {
+          "path": "img/product-goodeng-hdd-960.webp",
+          "size": 38464
+        }
+      }
+    },
+    {
+      "path": "img/product-igla-20t.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 138013,
+      "outputs": {
+        "jpeg": {
+          "size": 108612,
+          "replaced": true,
+          "old": 138013
+        },
+        "webp": {
+          "path": "img/product-igla-20t.webp",
+          "size": 54000,
+          "replaced": false,
+          "old": 54000
+        },
+        "webp_640": {
+          "path": "img/product-igla-20t-640.webp",
+          "size": 23722
+        },
+        "webp_960": {
+          "path": "img/product-igla-20t-960.webp",
+          "size": 41708
+        }
+      }
+    },
+    {
+      "path": "img/product-igla-20tvm.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 148631,
+      "outputs": {
+        "jpeg": {
+          "size": 117196,
+          "replaced": true,
+          "old": 148631
+        },
+        "webp": {
+          "path": "img/product-igla-20tvm.webp",
+          "size": 62212,
+          "replaced": false,
+          "old": 62212
+        },
+        "webp_640": {
+          "path": "img/product-igla-20tvm-640.webp",
+          "size": 24880
+        },
+        "webp_960": {
+          "path": "img/product-igla-20tvm-960.webp",
+          "size": 46564
+        }
+      }
+    },
+    {
+      "path": "img/product-igla-32t.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 123752,
+      "outputs": {
+        "jpeg": {
+          "size": 95504,
+          "replaced": true,
+          "old": 123752
+        },
+        "webp": {
+          "path": "img/product-igla-32t.webp",
+          "size": 43344,
+          "replaced": false,
+          "old": 43344
+        },
+        "webp_640": {
+          "path": "img/product-igla-32t-640.webp",
+          "size": 19180
+        },
+        "webp_960": {
+          "path": "img/product-igla-32t-960.webp",
+          "size": 33922
+        }
+      }
+    },
+    {
+      "path": "img/product-kluch-trubnii.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 278373,
+      "outputs": {
+        "jpeg": {
+          "size": 160403,
+          "replaced": true,
+          "old": 278373
+        },
+        "webp": {
+          "path": "img/product-kluch-trubnii.webp",
+          "size": 89072,
+          "replaced": false,
+          "old": 89072
+        },
+        "webp_640": {
+          "path": "img/product-kluch-trubnii-640.webp",
+          "size": 24468
+        },
+        "webp_960": {
+          "path": "img/product-kluch-trubnii-960.webp",
+          "size": 62340
+        }
+      }
+    },
+    {
+      "path": "img/product-lokatori-digitrak.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 134911,
+      "outputs": {
+        "jpeg": {
+          "size": 79385,
+          "replaced": true,
+          "old": 134911
+        },
+        "webp": {
+          "path": "img/product-lokatori-digitrak.webp",
+          "size": 43612,
+          "replaced": true,
+          "old": 57310
+        },
+        "webp_640": {
+          "path": "img/product-lokatori-digitrak-640.webp",
+          "size": 14372
+        },
+        "webp_960": {
+          "path": "img/product-lokatori-digitrak-960.webp",
+          "size": 26142
+        }
+      }
+    },
+    {
+      "path": "img/product-lokatori-rf.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 108170,
+      "outputs": {
+        "jpeg": {
+          "size": 83963,
+          "replaced": true,
+          "old": 108170
+        },
+        "webp": {
+          "path": "img/product-lokatori-rf.webp",
+          "size": 45990,
+          "replaced": false,
+          "old": 45990
+        },
+        "webp_640": {
+          "path": "img/product-lokatori-rf-640.webp",
+          "size": 11872
+        },
+        "webp_960": {
+          "path": "img/product-lokatori-rf-960.webp",
+          "size": 25668
+        }
+      }
+    },
+    {
+      "path": "img/product-mufta-startovoy.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 153612,
+      "outputs": {
+        "jpeg": {
+          "size": 86188,
+          "replaced": true,
+          "old": 153612
+        },
+        "webp": {
+          "path": "img/product-mufta-startovoy.webp",
+          "size": 39822,
+          "replaced": false,
+          "old": 39822
+        },
+        "webp_640": {
+          "path": "img/product-mufta-startovoy-640.webp",
+          "size": 12666
+        },
+        "webp_960": {
+          "path": "img/product-mufta-startovoy-960.webp",
+          "size": 26470
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-geotek.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 74554,
+      "outputs": {
+        "jpeg": {
+          "size": 55165,
+          "replaced": true,
+          "old": 74554
+        },
+        "webp": {
+          "path": "img/product-normet-geotek.webp",
+          "size": 26098,
+          "replaced": false,
+          "old": 26098
+        },
+        "webp_640": {
+          "path": "img/product-normet-geotek-640.webp",
+          "size": 10478
+        },
+        "webp_960": {
+          "path": "img/product-normet-geotek-960.webp",
+          "size": 17336
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamacryl.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 81719,
+      "outputs": {
+        "jpeg": {
+          "size": 60914,
+          "replaced": true,
+          "old": 81719
+        },
+        "webp": {
+          "path": "img/product-normet-tamacryl.webp",
+          "size": 29382,
+          "replaced": true,
+          "old": 30042
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamacryl-640.webp",
+          "size": 11990
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamacryl-960.webp",
+          "size": 19314
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamcem.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 78906,
+      "outputs": {
+        "jpeg": {
+          "size": 58453,
+          "replaced": true,
+          "old": 78906
+        },
+        "webp": {
+          "path": "img/product-normet-tamcem.webp",
+          "size": 28290,
+          "replaced": true,
+          "old": 28444
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamcem-640.webp",
+          "size": 11494
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamcem-960.webp",
+          "size": 18464
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamcrete.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 80550,
+      "outputs": {
+        "jpeg": {
+          "size": 60010,
+          "replaced": true,
+          "old": 80550
+        },
+        "webp": {
+          "path": "img/product-normet-tamcrete.webp",
+          "size": 28468,
+          "replaced": true,
+          "old": 28726
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamcrete-640.webp",
+          "size": 11496
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamcrete-960.webp",
+          "size": 18818
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamgrease.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 86534,
+      "outputs": {
+        "jpeg": {
+          "size": 63536,
+          "replaced": true,
+          "old": 86534
+        },
+        "webp": {
+          "path": "img/product-normet-tamgrease.webp",
+          "size": 32120,
+          "replaced": true,
+          "old": 32566
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamgrease-640.webp",
+          "size": 13034
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamgrease-960.webp",
+          "size": 21184
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tampur.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 77263,
+      "outputs": {
+        "jpeg": {
+          "size": 56779,
+          "replaced": true,
+          "old": 77263
+        },
+        "webp": {
+          "path": "img/product-normet-tampur.webp",
+          "size": 28090,
+          "replaced": true,
+          "old": 28554
+        },
+        "webp_640": {
+          "path": "img/product-normet-tampur-640.webp",
+          "size": 11444
+        },
+        "webp_960": {
+          "path": "img/product-normet-tampur-960.webp",
+          "size": 18376
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamrez.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 77983,
+      "outputs": {
+        "jpeg": {
+          "size": 58311,
+          "replaced": true,
+          "old": 77983
+        },
+        "webp": {
+          "path": "img/product-normet-tamrez.webp",
+          "size": 26970,
+          "replaced": true,
+          "old": 27310
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamrez-640.webp",
+          "size": 10848
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamrez-960.webp",
+          "size": 17874
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamseal.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 80185,
+      "outputs": {
+        "jpeg": {
+          "size": 59876,
+          "replaced": true,
+          "old": 80185
+        },
+        "webp": {
+          "path": "img/product-normet-tamseal.webp",
+          "size": 27916,
+          "replaced": true,
+          "old": 28304
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamseal-640.webp",
+          "size": 11228
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamseal-960.webp",
+          "size": 18350
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamshot.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 80602,
+      "outputs": {
+        "jpeg": {
+          "size": 59175,
+          "replaced": true,
+          "old": 80602
+        },
+        "webp": {
+          "path": "img/product-normet-tamshot.webp",
+          "size": 30136,
+          "replaced": true,
+          "old": 30194
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamshot-640.webp",
+          "size": 12020
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamshot-960.webp",
+          "size": 19506
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamsil.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 79399,
+      "outputs": {
+        "jpeg": {
+          "size": 58306,
+          "replaced": true,
+          "old": 79399
+        },
+        "webp": {
+          "path": "img/product-normet-tamsil.webp",
+          "size": 29512,
+          "replaced": true,
+          "old": 30112
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamsil-640.webp",
+          "size": 11818
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamsil-960.webp",
+          "size": 19172
+        }
+      }
+    },
+    {
+      "path": "img/product-normet-tamsoil.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 91356,
+      "outputs": {
+        "jpeg": {
+          "size": 67161,
+          "replaced": true,
+          "old": 91356
+        },
+        "webp": {
+          "path": "img/product-normet-tamsoil.webp",
+          "size": 34358,
+          "replaced": true,
+          "old": 35184
+        },
+        "webp_640": {
+          "path": "img/product-normet-tamsoil-640.webp",
+          "size": 13834
+        },
+        "webp_960": {
+          "path": "img/product-normet-tamsoil-960.webp",
+          "size": 22706
+        }
+      }
+    },
+    {
+      "path": "img/product-nsu.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 236466,
+      "outputs": {
+        "jpeg": {
+          "size": 131026,
+          "replaced": true,
+          "old": 236466
+        },
+        "webp": {
+          "path": "img/product-nsu.webp",
+          "size": 60948,
+          "replaced": false,
+          "old": 60948
+        },
+        "webp_640": {
+          "path": "img/product-nsu-640.webp",
+          "size": 24982
+        },
+        "webp_960": {
+          "path": "img/product-nsu-960.webp",
+          "size": 45408
+        }
+      }
+    },
+    {
+      "path": "img/product-pe-pipe-gaz.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 203002,
+      "outputs": {
+        "jpeg": {
+          "size": 141630,
+          "replaced": true,
+          "old": 203002
+        },
+        "webp": {
+          "path": "img/product-pe-pipe-gaz.webp",
+          "size": 82968,
+          "replaced": true,
+          "old": 122460
+        },
+        "webp_640": {
+          "path": "img/product-pe-pipe-gaz-640.webp",
+          "size": 26686
+        },
+        "webp_960": {
+          "path": "img/product-pe-pipe-gaz-960.webp",
+          "size": 49842
+        }
+      }
+    },
+    {
+      "path": "img/product-pe-pipe-voda.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 171365,
+      "outputs": {
+        "jpeg": {
+          "size": 137295,
+          "replaced": true,
+          "old": 171365
+        },
+        "webp": {
+          "path": "img/product-pe-pipe-voda.webp",
+          "size": 80148,
+          "replaced": true,
+          "old": 84808
+        },
+        "webp_640": {
+          "path": "img/product-pe-pipe-voda-640.webp",
+          "size": 24640
+        },
+        "webp_960": {
+          "path": "img/product-pe-pipe-voda-960.webp",
+          "size": 46020
+        }
+      }
+    },
+    {
+      "path": "img/product-rasshiritel.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 254961,
+      "outputs": {
+        "jpeg": {
+          "size": 140085,
+          "replaced": true,
+          "old": 254961
+        },
+        "webp": {
+          "path": "img/product-rasshiritel.webp",
+          "size": 79838,
+          "replaced": false,
+          "old": 79838
+        },
+        "webp_640": {
+          "path": "img/product-rasshiritel-640.webp",
+          "size": 23662
+        },
+        "webp_960": {
+          "path": "img/product-rasshiritel-960.webp",
+          "size": 53768
+        }
+      }
+    },
+    {
+      "path": "img/product-shtanga-burovaya.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 217526,
+      "outputs": {
+        "jpeg": {
+          "size": 116640,
+          "replaced": true,
+          "old": 217526
+        },
+        "webp": {
+          "path": "img/product-shtanga-burovaya.webp",
+          "size": 58712,
+          "replaced": false,
+          "old": 58712
+        },
+        "webp_640": {
+          "path": "img/product-shtanga-burovaya-640.webp",
+          "size": 20126
+        },
+        "webp_960": {
+          "path": "img/product-shtanga-burovaya-960.webp",
+          "size": 41792
+        }
+      }
+    },
+    {
+      "path": "img/product-shtanga-startovaya.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 179650,
+      "outputs": {
+        "jpeg": {
+          "size": 100471,
+          "replaced": true,
+          "old": 179650
+        },
+        "webp": {
+          "path": "img/product-shtanga-startovaya.webp",
+          "size": 49092,
+          "replaced": false,
+          "old": 49092
+        },
+        "webp_640": {
+          "path": "img/product-shtanga-startovaya-640.webp",
+          "size": 13410
+        },
+        "webp_960": {
+          "path": "img/product-shtanga-startovaya-960.webp",
+          "size": 32650
+        }
+      }
+    },
+    {
+      "path": "img/product-smazka-ditchwitch.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 105275,
+      "outputs": {
+        "jpeg": {
+          "size": 76963,
+          "replaced": true,
+          "old": 105275
+        },
+        "webp": {
+          "path": "img/product-smazka-ditchwitch.webp",
+          "size": 41728,
+          "replaced": true,
+          "old": 44666
+        },
+        "webp_640": {
+          "path": "img/product-smazka-ditchwitch-640.webp",
+          "size": 16968
+        },
+        "webp_960": {
+          "path": "img/product-smazka-ditchwitch-960.webp",
+          "size": 27342
+        }
+      }
+    },
+    {
+      "path": "img/product-smazka-jet-lube.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 98166,
+      "outputs": {
+        "jpeg": {
+          "size": 72061,
+          "replaced": true,
+          "old": 98166
+        },
+        "webp": {
+          "path": "img/product-smazka-jet-lube.webp",
+          "size": 38210,
+          "replaced": true,
+          "old": 41330
+        },
+        "webp_640": {
+          "path": "img/product-smazka-jet-lube-640.webp",
+          "size": 15380
+        },
+        "webp_960": {
+          "path": "img/product-smazka-jet-lube-960.webp",
+          "size": 25090
+        }
+      }
+    },
+    {
+      "path": "img/product-smazka-rf.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 95826,
+      "outputs": {
+        "jpeg": {
+          "size": 69488,
+          "replaced": true,
+          "old": 95826
+        },
+        "webp": {
+          "path": "img/product-smazka-rf.webp",
+          "size": 37392,
+          "replaced": true,
+          "old": 40202
+        },
+        "webp_640": {
+          "path": "img/product-smazka-rf-640.webp",
+          "size": 14828
+        },
+        "webp_960": {
+          "path": "img/product-smazka-rf-960.webp",
+          "size": 24938
+        }
+      }
+    },
+    {
+      "path": "img/product-smazka-vermeer.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 88692,
+      "outputs": {
+        "jpeg": {
+          "size": 65294,
+          "replaced": true,
+          "old": 88692
+        },
+        "webp": {
+          "path": "img/product-smazka-vermeer.webp",
+          "size": 33090,
+          "replaced": true,
+          "old": 35748
+        },
+        "webp_640": {
+          "path": "img/product-smazka-vermeer-640.webp",
+          "size": 13284
+        },
+        "webp_960": {
+          "path": "img/product-smazka-vermeer-960.webp",
+          "size": 21558
+        }
+      }
+    },
+    {
+      "path": "img/product-universal-hdd.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 102451,
+      "outputs": {
+        "jpeg": {
+          "size": 69129,
+          "replaced": true,
+          "old": 102451
+        },
+        "webp": {
+          "path": "img/product-universal-hdd.webp",
+          "size": 37554,
+          "replaced": false,
+          "old": 37554
+        },
+        "webp_640": {
+          "path": "img/product-universal-hdd-640.webp",
+          "size": 16536
+        },
+        "webp_960": {
+          "path": "img/product-universal-hdd-960.webp",
+          "size": 29106
+        }
+      }
+    },
+    {
+      "path": "img/product-vermeer-hdd.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 348530,
+      "outputs": {
+        "jpeg": {
+          "size": 268275,
+          "replaced": true,
+          "old": 348530
+        },
+        "webp": {
+          "path": "img/product-vermeer-hdd.webp",
+          "size": 199562,
+          "replaced": false,
+          "old": 199562
+        },
+        "webp_640": {
+          "path": "img/product-vermeer-hdd-640.webp",
+          "size": 64348
+        },
+        "webp_960": {
+          "path": "img/product-vermeer-hdd-960.webp",
+          "size": 132430
+        }
+      }
+    },
+    {
+      "path": "img/product-vertlugi.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 179852,
+      "outputs": {
+        "jpeg": {
+          "size": 100440,
+          "replaced": true,
+          "old": 179852
+        },
+        "webp": {
+          "path": "img/product-vertlugi.webp",
+          "size": 43082,
+          "replaced": false,
+          "old": 43082
+        },
+        "webp_640": {
+          "path": "img/product-vertlugi-640.webp",
+          "size": 14828
+        },
+        "webp_960": {
+          "path": "img/product-vertlugi-960.webp",
+          "size": 31044
+        }
+      }
+    },
+    {
+      "path": "img/product-vkladishi-tiskov.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 233657,
+      "outputs": {
+        "jpeg": {
+          "size": 135076,
+          "replaced": true,
+          "old": 233657
+        },
+        "webp": {
+          "path": "img/product-vkladishi-tiskov.webp",
+          "size": 66196,
+          "replaced": false,
+          "old": 66196
+        },
+        "webp_640": {
+          "path": "img/product-vkladishi-tiskov-640.webp",
+          "size": 21972
+        },
+        "webp_960": {
+          "path": "img/product-vkladishi-tiskov-960.webp",
+          "size": 49754
+        }
+      }
+    },
+    {
+      "path": "img/product-vstavki-nozha.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 243802,
+      "outputs": {
+        "jpeg": {
+          "size": 142722,
+          "replaced": true,
+          "old": 243802
+        },
+        "webp": {
+          "path": "img/product-vstavki-nozha.webp",
+          "size": 77856,
+          "replaced": false,
+          "old": 77856
+        },
+        "webp_640": {
+          "path": "img/product-vstavki-nozha-640.webp",
+          "size": 24094
+        },
+        "webp_960": {
+          "path": "img/product-vstavki-nozha-960.webp",
+          "size": 55954
+        }
+      }
+    },
+    {
+      "path": "img/product-wamet-add.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 231923,
+      "outputs": {
+        "jpeg": {
+          "size": 181913,
+          "replaced": true,
+          "old": 231923
+        },
+        "webp": {
+          "path": "img/product-wamet-add.webp",
+          "size": 116992,
+          "replaced": false,
+          "old": 116992
+        },
+        "webp_640": {
+          "path": "img/product-wamet-add-640.webp",
+          "size": 38618
+        },
+        "webp_960": {
+          "path": "img/product-wamet-add-960.webp",
+          "size": 80826
+        }
+      }
+    },
+    {
+      "path": "img/product-xcmg-hdd.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 105635,
+      "outputs": {
+        "jpeg": {
+          "size": 84664,
+          "replaced": true,
+          "old": 105635
+        },
+        "webp": {
+          "path": "img/product-xcmg-hdd.webp",
+          "size": 39110,
+          "replaced": false,
+          "old": 39110
+        },
+        "webp_640": {
+          "path": "img/product-xcmg-hdd-640.webp",
+          "size": 18956
+        },
+        "webp_960": {
+          "path": "img/product-xcmg-hdd-960.webp",
+          "size": 31802
+        }
+      }
+    },
+    {
+      "path": "img/product-zahvat-tsangovii.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 154880,
+      "outputs": {
+        "jpeg": {
+          "size": 79094,
+          "replaced": true,
+          "old": 154880
+        },
+        "webp": {
+          "path": "img/product-zahvat-tsangovii.webp",
+          "size": 30976,
+          "replaced": false,
+          "old": 30976
+        },
+        "webp_640": {
+          "path": "img/product-zahvat-tsangovii-640.webp",
+          "size": 10742
+        },
+        "webp_960": {
+          "path": "img/product-zahvat-tsangovii-960.webp",
+          "size": 21510
+        }
+      }
+    },
+    {
+      "path": "img/product-zondi.jpg",
+      "width": 1280,
+      "height": 800,
+      "before": 94280,
+      "outputs": {
+        "jpeg": {
+          "size": 69386,
+          "replaced": true,
+          "old": 94280
+        },
+        "webp": {
+          "path": "img/product-zondi.webp",
+          "size": 33404,
+          "replaced": false,
+          "old": 33404
+        },
+        "webp_640": {
+          "path": "img/product-zondi-640.webp",
+          "size": 13028
+        },
+        "webp_960": {
+          "path": "img/product-zondi-960.webp",
+          "size": 21514
+        }
+      }
+    }
+  ]
+}

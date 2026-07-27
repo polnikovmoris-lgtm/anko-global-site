@@ -1,0 +1,16 @@
+{
+  "css_errors": [],
+  "external_blank_without_rel": [],
+  "insecure_assets": [],
+  "suspicious_markers": [],
+  "runtime_markers": [],
+  "responsive_css_rules": {
+    "breakpoint_1000": true,
+    "breakpoint_620": true,
+    "breakpoint_420": true,
+    "mobile_nav_hidden": true,
+    "burger_enabled": true,
+    "mobile_phone_hidden": true,
+    "mobile_buybox_stack": true
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "file_counts": {
+    "all": 223,
+    "php": 79,
+    "root_php": 76,
+    "products": 59,
+    "categories": 8,
+    "images": 137
+  },
+  "status": {
+    "404": 1,
+    "200": 74,
+    "405": 1
+  },
+  "missing_assets": 0,
+  "broken_links": 0,
+  "dim": 0,
+  "unused_images": 0,
+  "duplicate_groups": 0,
+  "bad_h1": 0,
+  "json_errors": 0,
+  "product_issues": 0,
+  "search": {
+    "counts": {
+      "cat": 8,
+      "prod": 59
+    },
+    "total": 67,
+    "missing_urls": [],
+    "duplicate_urls": []
+  },
+  "form_tests": {
+    "bad_csrf": [
+      419,
+      {
+        "error": "Сессия формы устарела. Обновите страницу и попробуйте снова."
+      }
+    ],
+    "invalid_phone": [
+      422,
+      {
+        "error": "Укажите корректный номер телефона."
+      }
+    ],
+    "honeypot": [
+      200,
+      {
+        "ok": true
+      }
+    ],
+    "valid_but_mail_unconfigured": [
+      503,
+      {
+        "error": "Не удалось отправить заявку. Позвоните нам по телефону на сайте."
+      }
+    ]
+  },
+  "claim_checks": {
+    "reviews_anchor_present": false,
+    "review_section_present": false,
+    "placeholder_letters_present": false,
+    "500_plus_present": false,
+    "30_minutes_anywhere": false,
+    "external_normet_logo_present": false,
+    "baroid_brand_card_present": false,
+    "local_normet_logo_present": true,
+    "catalog_59_present": true
+  },
+  "pages_without_canonical": [],
+  "long_desc": []
+}

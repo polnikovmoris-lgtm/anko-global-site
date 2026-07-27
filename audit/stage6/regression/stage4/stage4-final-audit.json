@@ -1,0 +1,107 @@
+{
+  "file_counts": {
+    "all": 351,
+    "php": 79,
+    "root_php": 76,
+    "products": 59,
+    "categories": 8,
+    "images": 265
+  },
+  "http_status_counts": {
+    "404": 1,
+    "200": 74,
+    "405": 1
+  },
+  "pages_without_title": [],
+  "pages_without_description": [],
+  "pages_without_canonical": [],
+  "bad_h1": [],
+  "jsonld_errors": [],
+  "duplicate_titles": {},
+  "duplicate_descriptions": {},
+  "duplicate_canonicals": {},
+  "long_titles": [],
+  "long_descriptions": [],
+  "short_descriptions": [],
+  "missing_assets": [],
+  "broken_internal_links": [],
+  "dimension_mismatches": [],
+  "missing_alt": [],
+  "empty_alt": [],
+  "unused_images": [],
+  "duplicate_image_groups": [],
+  "sitemap": {
+    "urls": 72,
+    "missing_files": [],
+    "php_not_in_sitemap": []
+  },
+  "search_index": {
+    "counts": {
+      "cat": 8,
+      "prod": 59
+    },
+    "total": 67,
+    "missing_urls": [],
+    "duplicate_urls": []
+  },
+  "product_issues": [],
+  "claim_checks": {
+    "reviews_anchor_present": false,
+    "review_section_present": false,
+    "placeholder_letters_present": false,
+    "500_plus_present": false,
+    "30_minutes_anywhere": false,
+    "external_normet_logo_present": false,
+    "baroid_brand_card_present": false,
+    "local_normet_logo_present": true,
+    "catalog_59_present": true
+  },
+  "normet_logo_checks": {
+    "category-normet.php": 22,
+    "product-normet-geotek.php": 2,
+    "product-normet-tamacryl.php": 2,
+    "product-normet-tamcem.php": 2,
+    "product-normet-tamcrete.php": 2,
+    "product-normet-tamgrease.php": 2,
+    "product-normet-tampur.php": 2,
+    "product-normet-tamrez.php": 2,
+    "product-normet-tamseal.php": 2,
+    "product-normet-tamshot.php": 2,
+    "product-normet-tamsil.php": 2,
+    "product-normet-tamsoil.php": 2
+  },
+  "form_tests": {
+    "bad_csrf": [
+      419,
+      {
+        "error": "Сессия формы устарела. Обновите страницу и попробуйте снова."
+      }
+    ],
+    "invalid_phone": [
+      422,
+      {
+        "error": "Укажите корректный номер телефона."
+      }
+    ],
+    "honeypot": [
+      200,
+      {
+        "ok": true
+      }
+    ],
+    "valid_but_mail_unconfigured": [
+      503,
+      {
+        "error": "Не удалось отправить заявку. Позвоните нам по телефону на сайте."
+      }
+    ]
+  },
+  "source_checks": {
+    "php74_no_str_contains": true,
+    "telegram_primary_env": true,
+    "telegram_legacy_env": true,
+    "error_document": true,
+    "canonical_redirect": true,
+    "protect_internal_extensions": true
+  }
+}

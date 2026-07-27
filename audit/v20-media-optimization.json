@@ -1,0 +1,786 @@
+{
+  "gallery_entries": 72,
+  "unique_gallery_images": 66,
+  "converted_images": 66,
+  "gallery_bytes_before": 2255792,
+  "gallery_bytes_after": 1189786,
+  "gallery_bytes_saved": 1066006,
+  "unused_files_removed": 61,
+  "unused_bytes_removed": 15954407,
+  "converted": [
+    {
+      "source": "adapter/adapter-1.jpg",
+      "output": "adapter/adapter-1.webp",
+      "before_bytes": 3763,
+      "after_bytes": 3042,
+      "width": 225,
+      "height": 224
+    },
+    {
+      "source": "adapter/adapter-2.jpg",
+      "output": "adapter/adapter-2.webp",
+      "before_bytes": 7130,
+      "after_bytes": 6464,
+      "width": 259,
+      "height": 194
+    },
+    {
+      "source": "adapter/adapter-3.jpg",
+      "output": "adapter/adapter-3.webp",
+      "before_bytes": 2245,
+      "after_bytes": 1362,
+      "width": 225,
+      "height": 224
+    },
+    {
+      "source": "lopatki/noj1.jpg",
+      "output": "lopatki/noj1.webp",
+      "before_bytes": 3376,
+      "after_bytes": 1974,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "lopatki/noj2.jpg",
+      "output": "lopatki/noj2.webp",
+      "before_bytes": 3624,
+      "after_bytes": 2188,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "lopatki/noj3.jpg",
+      "output": "lopatki/noj3.webp",
+      "before_bytes": 3642,
+      "after_bytes": 2584,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "piloti/pilot-0.jpg",
+      "output": "piloti/pilot-0.webp",
+      "before_bytes": 27919,
+      "after_bytes": 2414,
+      "width": 191,
+      "height": 200
+    },
+    {
+      "source": "piloti/pilot-1.jpg",
+      "output": "piloti/pilot-1.webp",
+      "before_bytes": 1744,
+      "after_bytes": 706,
+      "width": 219,
+      "height": 222
+    },
+    {
+      "source": "piloti/pilot-2.jpg",
+      "output": "piloti/pilot-2.webp",
+      "before_bytes": 1666,
+      "after_bytes": 842,
+      "width": 222,
+      "height": 222
+    },
+    {
+      "source": "kluch/kluch-0.jpg",
+      "output": "kluch/kluch-0.webp",
+      "before_bytes": 5699,
+      "after_bytes": 4452,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "kluch/kluch-1.jpg",
+      "output": "kluch/kluch-1.webp",
+      "before_bytes": 4961,
+      "after_bytes": 3460,
+      "width": 234,
+      "height": 216
+    },
+    {
+      "source": "kluch/kluch-2.jpg",
+      "output": "kluch/kluch-2.webp",
+      "before_bytes": 9545,
+      "after_bytes": 9470,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "mufta/mufta-0.jpg",
+      "output": "mufta/mufta-0.webp",
+      "before_bytes": 6282,
+      "after_bytes": 5834,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "mufta/mufta-1.jpg",
+      "output": "mufta/mufta-1.webp",
+      "before_bytes": 3509,
+      "after_bytes": 2290,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "mufta/mufta-2.jpg",
+      "output": "mufta/mufta-2.webp",
+      "before_bytes": 3706,
+      "after_bytes": 2916,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "nsu/nsu-0.jpg",
+      "output": "nsu/nsu-0.webp",
+      "before_bytes": 11647,
+      "after_bytes": 13012,
+      "width": 259,
+      "height": 194
+    },
+    {
+      "source": "nsu/nsu-2.jpg",
+      "output": "nsu/nsu-2.webp",
+      "before_bytes": 6327,
+      "after_bytes": 5234,
+      "width": 259,
+      "height": 194
+    },
+    {
+      "source": "nsu/nsu-3.jpg",
+      "output": "nsu/nsu-3.webp",
+      "before_bytes": 6200,
+      "after_bytes": 4702,
+      "width": 275,
+      "height": 183
+    },
+    {
+      "source": "rasshiritel/rasshiritel-0.jpg",
+      "output": "rasshiritel/rasshiritel-0.webp",
+      "before_bytes": 3869,
+      "after_bytes": 2856,
+      "width": 223,
+      "height": 226
+    },
+    {
+      "source": "rasshiritel/rasshiritel-1.jpg",
+      "output": "rasshiritel/rasshiritel-1.webp",
+      "before_bytes": 5917,
+      "after_bytes": 5090,
+      "width": 225,
+      "height": 224
+    },
+    {
+      "source": "rasshiritel/rasshiritel-2.jpg",
+      "output": "rasshiritel/rasshiritel-2.webp",
+      "before_bytes": 5116,
+      "after_bytes": 4776,
+      "width": 150,
+      "height": 150
+    },
+    {
+      "source": "shangi/shtanga-1.jpg",
+      "output": "shangi/shtanga-1.webp",
+      "before_bytes": 14994,
+      "after_bytes": 12908,
+      "width": 241,
+      "height": 179
+    },
+    {
+      "source": "shangi/shtanga-2.jpg",
+      "output": "shangi/shtanga-2.webp",
+      "before_bytes": 7171,
+      "after_bytes": 6542,
+      "width": 275,
+      "height": 183
+    },
+    {
+      "source": "shangi/shtanga-3.jpg",
+      "output": "shangi/shtanga-3.webp",
+      "before_bytes": 9474,
+      "after_bytes": 10180,
+      "width": 281,
+      "height": 180
+    },
+    {
+      "source": "shtanga-startovaya/shtangav-0.jpg",
+      "output": "shtanga-startovaya/shtangav-0.webp",
+      "before_bytes": 62886,
+      "after_bytes": 13478,
+      "width": 700,
+      "height": 700
+    },
+    {
+      "source": "shtanga-startovaya/shtangav-1.jpg",
+      "output": "shtanga-startovaya/shtangav-1.webp",
+      "before_bytes": 58101,
+      "after_bytes": 11964,
+      "width": 700,
+      "height": 700
+    },
+    {
+      "source": "shtanga-startovaya/shtangav-2.jpg",
+      "output": "shtanga-startovaya/shtangav-2.webp",
+      "before_bytes": 106526,
+      "after_bytes": 87176,
+      "width": 640,
+      "height": 640
+    },
+    {
+      "source": "smenniegolovi/golova-0.jpg",
+      "output": "smenniegolovi/golova-0.webp",
+      "before_bytes": 5240,
+      "after_bytes": 4302,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "smenniegolovi/golova-1.jpg",
+      "output": "smenniegolovi/golova-1.webp",
+      "before_bytes": 5765,
+      "after_bytes": 4774,
+      "width": 282,
+      "height": 179
+    },
+    {
+      "source": "smenniegolovi/golova-2.jpg",
+      "output": "smenniegolovi/golova-2.webp",
+      "before_bytes": 3652,
+      "after_bytes": 2534,
+      "width": 230,
+      "height": 219
+    },
+    {
+      "source": "vertlugi/vertluga-0.jpg",
+      "output": "vertlugi/vertluga-0.webp",
+      "before_bytes": 3616,
+      "after_bytes": 2572,
+      "width": 218,
+      "height": 231
+    },
+    {
+      "source": "vertlugi/vertluga-1.jpg",
+      "output": "vertlugi/vertluga-1.webp",
+      "before_bytes": 6524,
+      "after_bytes": 5428,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "vertlugi/vertluga-3.jpg",
+      "output": "vertlugi/vertluga-3.webp",
+      "before_bytes": 5613,
+      "after_bytes": 4174,
+      "width": 220,
+      "height": 230
+    },
+    {
+      "source": "vkladish/vkladish-0.jpg",
+      "output": "vkladish/vkladish-0.webp",
+      "before_bytes": 4398,
+      "after_bytes": 3816,
+      "width": 200,
+      "height": 151
+    },
+    {
+      "source": "vkladish/vkladish-1.jpg",
+      "output": "vkladish/vkladish-1.webp",
+      "before_bytes": 3403,
+      "after_bytes": 2510,
+      "width": 200,
+      "height": 150
+    },
+    {
+      "source": "vkladish/vkladish-2.jpg",
+      "output": "vkladish/vkladish-2.webp",
+      "before_bytes": 3300,
+      "after_bytes": 2576,
+      "width": 200,
+      "height": 150
+    },
+    {
+      "source": "rezci/rezec-0.jpg",
+      "output": "rezci/rezec-0.webp",
+      "before_bytes": 7089,
+      "after_bytes": 6064,
+      "width": 209,
+      "height": 241
+    },
+    {
+      "source": "rezci/rezec-1.jpg",
+      "output": "rezci/rezec-1.webp",
+      "before_bytes": 3684,
+      "after_bytes": 3158,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "rezci/rezec-2.jpg",
+      "output": "rezci/rezec-2.webp",
+      "before_bytes": 6490,
+      "after_bytes": 5492,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "zahvati/zahvat-0.jpg",
+      "output": "zahvati/zahvat-0.webp",
+      "before_bytes": 116445,
+      "after_bytes": 50116,
+      "width": 507,
+      "height": 478
+    },
+    {
+      "source": "zahvati/zahvat-1.jpg",
+      "output": "zahvati/zahvat-1.webp",
+      "before_bytes": 25612,
+      "after_bytes": 8228,
+      "width": 400,
+      "height": 298
+    },
+    {
+      "source": "zahvati/zahvat-2.jpg",
+      "output": "zahvati/zahvat-2.webp",
+      "before_bytes": 8706,
+      "after_bytes": 8564,
+      "width": 260,
+      "height": 194
+    },
+    {
+      "source": "locator/AmLocator.jpg",
+      "output": "locator/AmLocator.webp",
+      "before_bytes": 65923,
+      "after_bytes": 6132,
+      "width": 301,
+      "height": 301
+    },
+    {
+      "source": "locator/am2.jpg",
+      "output": "locator/am2.webp",
+      "before_bytes": 6156,
+      "after_bytes": 4318,
+      "width": 150,
+      "height": 225
+    },
+    {
+      "source": "locator/am3.jpg",
+      "output": "locator/am3.webp",
+      "before_bytes": 21451,
+      "after_bytes": 12068,
+      "width": 500,
+      "height": 408
+    },
+    {
+      "source": "locator/era2.png",
+      "output": "locator/era2.webp",
+      "before_bytes": 581370,
+      "after_bytes": 50636,
+      "width": 1000,
+      "height": 800
+    },
+    {
+      "source": "locator/era5.jpeg",
+      "output": "locator/era5.webp",
+      "before_bytes": 78434,
+      "after_bytes": 26338,
+      "width": 517,
+      "height": 571
+    },
+    {
+      "source": "locator/era3.jpg",
+      "output": "locator/era3.webp",
+      "before_bytes": 57084,
+      "after_bytes": 16128,
+      "width": 640,
+      "height": 480
+    },
+    {
+      "source": "ditchwitch/ditchWitch-0.jpg",
+      "output": "ditchwitch/ditchWitch-0.webp",
+      "before_bytes": 10237,
+      "after_bytes": 10180,
+      "width": 281,
+      "height": 180
+    },
+    {
+      "source": "ditchwitch/ditchWitch-1.jpg",
+      "output": "ditchwitch/ditchWitch-1.webp",
+      "before_bytes": 11099,
+      "after_bytes": 11698,
+      "width": 259,
+      "height": 194
+    },
+    {
+      "source": "ditchwitch/ditchWitch-2.jpg",
+      "output": "ditchwitch/ditchWitch-2.webp",
+      "before_bytes": 11358,
+      "after_bytes": 11524,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "fdp/fpd1.jpg",
+      "output": "fdp/fpd1.webp",
+      "before_bytes": 6680,
+      "after_bytes": 6304,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "fdp/fdp2.jpg",
+      "output": "fdp/fdp2.webp",
+      "before_bytes": 7576,
+      "after_bytes": 5362,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "fdp/fdp3.jpg",
+      "output": "fdp/fdp3.webp",
+      "before_bytes": 7644,
+      "after_bytes": 5424,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "goodeng/photo_2020-05-17_12-48-48.jpg",
+      "output": "goodeng/photo_2020-05-17_12-48-48.webp",
+      "before_bytes": 216731,
+      "after_bytes": 189542,
+      "width": 1276,
+      "height": 956
+    },
+    {
+      "source": "goodeng/photo_2020-05-17_12-48-42.jpg",
+      "output": "goodeng/photo_2020-05-17_12-48-42.webp",
+      "before_bytes": 223606,
+      "after_bytes": 194904,
+      "width": 1276,
+      "height": 956
+    },
+    {
+      "source": "goodeng/photo_2020-05-17_12-48-27.jpg",
+      "output": "goodeng/photo_2020-05-17_12-48-27.webp",
+      "before_bytes": 247833,
+      "after_bytes": 221902,
+      "width": 1276,
+      "height": 956
+    },
+    {
+      "source": "bur-igla/igla-1.jpg",
+      "output": "bur-igla/igla-1.webp",
+      "before_bytes": 9393,
+      "after_bytes": 6778,
+      "width": 270,
+      "height": 187
+    },
+    {
+      "source": "bur-igla/igla-0.jpg",
+      "output": "bur-igla/igla-0.webp",
+      "before_bytes": 6473,
+      "after_bytes": 4028,
+      "width": 269,
+      "height": 187
+    },
+    {
+      "source": "bur-igla/igla-2.jpg",
+      "output": "bur-igla/igla-2.webp",
+      "before_bytes": 8510,
+      "after_bytes": 5436,
+      "width": 281,
+      "height": 180
+    },
+    {
+      "source": "vermeer/vermeer-0.jpg",
+      "output": "vermeer/vermeer-0.webp",
+      "before_bytes": 5880,
+      "after_bytes": 3898,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "vermeer/vermeer-1.jpg",
+      "output": "vermeer/vermeer-1.webp",
+      "before_bytes": 9173,
+      "after_bytes": 6506,
+      "width": 225,
+      "height": 225
+    },
+    {
+      "source": "vermeer/vermeer-2.jpg",
+      "output": "vermeer/vermeer-2.webp",
+      "before_bytes": 8368,
+      "after_bytes": 8074,
+      "width": 259,
+      "height": 194
+    },
+    {
+      "source": "xcmg/xcmg-0.jpg",
+      "output": "xcmg/xcmg-0.webp",
+      "before_bytes": 7195,
+      "after_bytes": 6336,
+      "width": 252,
+      "height": 200
+    },
+    {
+      "source": "xcmg/XCMG-Xz1500-150t-Horizontal-Directional-Drilling-Drill.jpg",
+      "output": "xcmg/XCMG-Xz1500-150t-Horizontal-Directional-Drilling-Drill.webp",
+      "before_bytes": 44498,
+      "after_bytes": 28332,
+      "width": 550,
+      "height": 548
+    },
+    {
+      "source": "xcmg/xcmg-1.jpg",
+      "output": "xcmg/xcmg-1.webp",
+      "before_bytes": 6544,
+      "after_bytes": 5714,
+      "width": 225,
+      "height": 225
+    }
+  ],
+  "unused": [
+    {
+      "path": "brand-cetco-official.svg",
+      "bytes": 2170
+    },
+    {
+      "path": "brand-cetco.png",
+      "bytes": 3284
+    },
+    {
+      "path": "brand-ditchwitch.png",
+      "bytes": 3612
+    },
+    {
+      "path": "brand-vermeer-official.svg",
+      "bytes": 5271
+    },
+    {
+      "path": "brand-vermeer.png",
+      "bytes": 3466
+    },
+    {
+      "path": "brand-xcmg.png",
+      "bytes": 3244
+    },
+    {
+      "path": "cat-bentonit.webp",
+      "bytes": 4292
+    },
+    {
+      "path": "cat-instrument.webp",
+      "bytes": 6124
+    },
+    {
+      "path": "cat-komplekt.jpg",
+      "bytes": 12628
+    },
+    {
+      "path": "cat-komplekt.webp",
+      "bytes": 3762
+    },
+    {
+      "path": "cat-lokacia.webp",
+      "bytes": 4440
+    },
+    {
+      "path": "cat-pnd.webp",
+      "bytes": 5870
+    },
+    {
+      "path": "cat-polimery.webp",
+      "bytes": 4070
+    },
+    {
+      "path": "cat-smazki.webp",
+      "bytes": 4046
+    },
+    {
+      "path": "cat-ustanovki.webp",
+      "bytes": 5110
+    },
+    {
+      "path": "gallery/a-line/bur-igla/igla-32t.jpg",
+      "bytes": 75222
+    },
+    {
+      "path": "gallery/a-line/bur-igla/igla-32tv-1.jpg",
+      "bytes": 140229
+    },
+    {
+      "path": "gallery/a-line/bur-igla/igla-32tv-2.jpg",
+      "bytes": 151107
+    },
+    {
+      "path": "gallery/a-line/bur-igla/igla-32tv.jpg",
+      "bytes": 167455
+    },
+    {
+      "path": "gallery/a-line/ditchwitch/ditchWitch-3.jpg",
+      "bytes": 5231
+    },
+    {
+      "path": "gallery/a-line/ditchwitch/ditchwitch.jpg",
+      "bytes": 150922
+    },
+    {
+      "path": "gallery/a-line/ditchwitch/ditchwitch.png",
+      "bytes": 204271
+    },
+    {
+      "path": "gallery/a-line/fdp/1052.jpg",
+      "bytes": 403367
+    },
+    {
+      "path": "gallery/a-line/fdp/FDP.jpg",
+      "bytes": 64989
+    },
+    {
+      "path": "gallery/a-line/fdp/images (3).jpg",
+      "bytes": 10708
+    },
+    {
+      "path": "gallery/a-line/fdp/unnamed.jpg",
+      "bytes": 56581
+    },
+    {
+      "path": "gallery/a-line/goodeng/Goodeng.jpg",
+      "bytes": 353945
+    },
+    {
+      "path": "gallery/a-line/goodeng/goodeng-0.jpg",
+      "bytes": 184810
+    },
+    {
+      "path": "gallery/a-line/goodeng/goodeng-1.jpg",
+      "bytes": 7265
+    },
+    {
+      "path": "gallery/a-line/goodeng/goodeng-2.jpg",
+      "bytes": 190956
+    },
+    {
+      "path": "gallery/a-line/goodeng/goodeng-3.jpg",
+      "bytes": 5237
+    },
+    {
+      "path": "gallery/a-line/goodeng/goodeng-4.jpg",
+      "bytes": 182565
+    },
+    {
+      "path": "gallery/a-line/goodeng/goodeng-5.jpg",
+      "bytes": 170678
+    },
+    {
+      "path": "gallery/a-line/goodeng/photo_2020-05-17_12-48-53.jpg",
+      "bytes": 229194
+    },
+    {
+      "path": "gallery/a-line/goodeng/photo_2020-05-17_12-48-57.jpg",
+      "bytes": 342264
+    },
+    {
+      "path": "gallery/a-line/kluch/kluch.jpg",
+      "bytes": 23416
+    },
+    {
+      "path": "gallery/a-line/lopatki/noj.jpg",
+      "bytes": 98646
+    },
+    {
+      "path": "gallery/a-line/nsu/nsu-1.jpg",
+      "bytes": 7845
+    },
+    {
+      "path": "gallery/a-line/piloti/pilotburovoi.jpg",
+      "bytes": 84987
+    },
+    {
+      "path": "gallery/a-line/rasshiritel/rasshiritel-3.jpg",
+      "bytes": 6355
+    },
+    {
+      "path": "gallery/a-line/rasshiritel/rasshiritel.jpg",
+      "bytes": 69555
+    },
+    {
+      "path": "gallery/a-line/rezci/tverdosplav.jpg",
+      "bytes": 104732
+    },
+    {
+      "path": "gallery/a-line/shangi/shtanga-0.jpg",
+      "bytes": 14010
+    },
+    {
+      "path": "gallery/a-line/smenniegolovi/golovka-3.png",
+      "bytes": 50354
+    },
+    {
+      "path": "gallery/a-line/smenniegolovi/smennayaGolova.jpg",
+      "bytes": 39771
+    },
+    {
+      "path": "gallery/a-line/vermeer/vermeer.jpg",
+      "bytes": 25467
+    },
+    {
+      "path": "gallery/a-line/vertlugi/vertluga.jpg",
+      "bytes": 130462
+    },
+    {
+      "path": "gallery/a-line/xcmg/XCMG.jpg",
+      "bytes": 19338
+    },
+    {
+      "path": "gallery/a-line/xcmg/XCMG2.jpeg",
+      "bytes": 8334256
+    },
+    {
+      "path": "gallery/a-line/xcmg/xcmg-2.jpg",
+      "bytes": 5956
+    },
+    {
+      "path": "gallery/a-line/zahvati/zahvat.jpg",
+      "bytes": 243670
+    },
+    {
+      "path": "generated/bentonit-ultra-gel-640.webp",
+      "bytes": 13910
+    },
+    {
+      "path": "generated/bentonit-ultra-gel-960.webp",
+      "bytes": 21286
+    },
+    {
+      "path": "generated/bentonit-ultra-gel.jpg",
+      "bytes": 47524
+    },
+    {
+      "path": "generated/bentonit-ultra-gel.webp",
+      "bytes": 22034
+    },
+    {
+      "path": "generated/hero-generated-anko-640.webp",
+      "bytes": 49050
+    },
+    {
+      "path": "generated/hero-generated-anko-960.webp",
+      "bytes": 80854
+    },
+    {
+      "path": "generated/hero-generated-anko.jpg",
+      "bytes": 170601
+    },
+    {
+      "path": "generated/hero-generated-anko.webp",
+      "bytes": 110204
+    },
+    {
+      "path": "hero-goodeng-final.png",
+      "bytes": 2152790
+    },
+    {
+      "path": "hero-reference-goodeng.png",
+      "bytes": 858949
+    }
+  ]
+}

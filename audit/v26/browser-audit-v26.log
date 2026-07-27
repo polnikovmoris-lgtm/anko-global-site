@@ -1,0 +1,15 @@
+{
+  "status": "passed",
+  "sitemap_urls": 81,
+  "page_viewport_scenarios": 162,
+  "failed_page_scenarios": 0,
+  "targeted": {
+    "mobile_phone": true,
+    "catalog_mobile_padding": true,
+    "catalog_filter": true,
+    "contacts_mobile_padding": true,
+    "reviews_lightbox": true,
+    "menu_and_kp_modal": true,
+    "product_gallery": true
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "status": "passed",
+  "scope": "static pre-release checks; no browser rendering or server execution",
+  "viewports_reviewed": [
+    320,
+    375,
+    390,
+    768,
+    1024,
+    1440,
+    1920
+  ],
+  "css_breakpoints": [
+    380,
+    420,
+    560,
+    620,
+    700,
+    900,
+    1000,
+    1024,
+    1180,
+    1499
+  ],
+  "viewport_css_regimes": {
+    "320": [
+      380,
+      420,
+      560,
+      620,
+      700,
+      900,
+      1000,
+      1024,
+      1180,
+      1499
+    ],
+    "375": [
+      380,
+      420,
+      560,
+      620,
+      700,
+      900,
+      1000,
+      1024,
+      1180,
+      1499
+    ],
+    "390": [
+      420,
+      560,
+      620,
+      700,
+      900,
+      1000,
+      1024,
+      1180,
+      1499
+    ],
+    "768": [
+      900,
+      1000,
+      1024,
+      1180,
+      1499
+    ],
+    "1024": [
+      1024,
+      1180,
+      1499
+    ],
+    "1440": [
+      1499
+    ],
+    "1920": []
+  },
+  "responsive_checks": {
+    "fluid_container": true,
+    "mobile_single_column": true,
+    "pdp_stacks_at_1000": true,
+    "mobile_gallery_scroll": true,
+    "mobile_table_wrap": true,
+    "rig_tables_scroll": true,
+    "narrow_phone_wrap": true,
+    "safe_area_callbar": true,
+    "reduced_motion": true
+  },
+  "responsive_source_tags": 152,
+  "responsive_sources_without_sizes": 0,
+  "lead_forms_checked": [
+    {
+      "source": "contacts.php",
+      "checks": {
+        "phone": true,
+        "phone_inputmode": true,
+        "phone_minlength": true,
+        "csrf": true,
+        "honeypot": true,
+        "consent": true,
+        "live_status": true
+      }
+    },
+    {
+      "source": "index.php",
+      "checks": {
+        "phone": true,
+        "phone_inputmode": true,
+        "phone_minlength": true,
+        "csrf": true,
+        "honeypot": true,
+        "consent": true,
+        "live_status": true
+      }
+    },
+    {
+      "source": "inc/footer.php",
+      "checks": {
+        "phone": true,
+        "phone_inputmode": true,
+        "phone_minlength": true,
+        "csrf": true,
+        "honeypot": true,
+        "consent": true,
+        "live_status": true
+      }
+    }
+  ],
+  "security_checks": {
+    "post_only": true,
+    "request_size_limit": true,
+    "csrf_server_validation": true,
+    "consent_server_validation": true,
+    "honeypot": true,
+    "phone_server_validation": true,
+    "atomic_rate_limit": true,
+    "five_per_hour_limit": true,
+    "safe_mail_configuration": true,
+    "no_store_response": true,
+    "staged_csp": true
+  },
+  "accessibility_checks": {
+    "skip_link_focus": true,
+    "focus_visible": true,
+    "minimum_button_height": true,
+    "burger_48_square": true,
+    "modal_inert_background": true,
+    "modal_focus_return": true,
+    "form_live_region": true,
+    "gallery_buttons": true,
+    "gallery_keyboard": true,
+    "reduced_motion": true
+  },
+  "ai_crawler_rules_unchanged": {
+    "GPTBot": true,
+    "OAI-SearchBot": true,
+    "ChatGPT-User": false,
+    "Google-Extended": true,
+    "ClaudeBot": true,
+    "PerplexityBot": true
+  },
+  "requires_public_https": [
+    "real-browser layout and interaction at all seven viewports",
+    "HTTP status, redirects, headers, HSTS and enforced CSP",
+    "mail delivery and Telegram integration",
+    "Lighthouse, TTFB and Core Web Vitals",
+    "Google, Yandex, Bing and AI crawler fetchability"
+  ],
+  "errors": [],
+  "warnings": [
+    "ChatGPT-User has no explicit group; owner decision is required before changing AI crawler policy"
+  ]
+}

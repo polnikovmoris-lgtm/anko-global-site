@@ -1,0 +1,12 @@
+const sharp=require('sharp'),fs=require('fs'),fsp=fs.promises,path=require('path');
+const site=process.argv[2],reportPath=process.argv[3];const imgRoot=path.join(site,'img');
+async function walk(d){let o=[];for(const e of await fsp.readdir(d,{withFileTypes:true})){const p=path.join(d,e.name);o.push(...(e.isDirectory()?await walk(p):[p]));}return o;}
+const rel=p=>path.relative(site,p).split(path.sep).join('/');
+async function replaceIfSmaller(tmp,target){const n=(await fsp.stat(tmp)).size,o=fs.existsSync(target)?(await fsp.stat(target)).size:Infinity;if(n<o){await fsp.rename(tmp,target);return {size:n,replaced:true,old:o};}await fsp.unlink(tmp);return {size:o,replaced:false,old:o};}
+async function processOne(jpg){const m=await sharp(jpg).metadata(),before=(await fsp.stat(jpg)).size,stem=jpg.replace(/\.jpe?g$/i,'');const it={path:rel(jpg),width:m.width,height:m.height,before,outputs:{}};
+ const tj=jpg+'.tmp';await sharp(jpg).jpeg({quality:86,mozjpeg:true,chromaSubsampling:'4:2:0'}).toFile(tj);it.outputs.jpeg=await replaceIfSmaller(tj,jpg);
+ if(/\/og-image\.jpg$/i.test(jpg))return it;
+ const wp=stem+'.webp',tw=wp+'.tmp';await sharp(jpg).webp({quality:80,effort:2,smartSubsample:true}).toFile(tw);it.outputs.webp={path:rel(wp),...(await replaceIfSmaller(tw,wp))};
+ if((m.width||0)>=900){for(const width of [640,960]){if(width>=m.width)continue;const w=stem+`-${width}.webp`;await sharp(jpg).resize({width,withoutEnlargement:true}).webp({quality:78,effort:2,smartSubsample:true}).toFile(w);it.outputs[`webp_${width}`]={path:rel(w),size:(await fsp.stat(w)).size};}}
+ return it;}
+(async()=>{const files=(await walk(imgRoot)).filter(p=>/\.jpe?g$/i.test(p));const results=[];let idx=0;const workers=Array.from({length:4},async()=>{while(true){const i=idx++;if(i>=files.length)return;results[i]=await processOne(files[i]);}});await Promise.all(workers);const totals={before_jpeg:0,after_jpeg:0,jpeg_saved:0,responsive_webp_bytes:0};for(const x of results){totals.before_jpeg+=x.before;totals.after_jpeg+=x.outputs.jpeg.size;for(const [k,v] of Object.entries(x.outputs))if(k.startsWith('webp_'))totals.responsive_webp_bytes+=v.size;}totals.jpeg_saved=totals.before_jpeg-totals.after_jpeg;const report={started_at:new Date().toISOString(),finished_at:new Date().toISOString(),totals,images:results};await fsp.writeFile(reportPath,JSON.stringify(report,null,2));console.log(JSON.stringify(totals,null,2));})().catch(e=>{console.error(e);process.exit(1)});

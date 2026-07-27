@@ -1,0 +1,8 @@
+{
+  "thumbs": 4,
+  "click_switch": "passed",
+  "keyboard_switch": "passed",
+  "active_state": "passed",
+  "responsive_sources": "passed",
+  "mobile_scroll_rule": "passed"
+}

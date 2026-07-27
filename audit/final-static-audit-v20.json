@@ -1,0 +1,16 @@
+{
+  "status": "passed",
+  "php_files": 87,
+  "canonical_product_pages": 68,
+  "redirect_pages": 2,
+  "category_pages": 8,
+  "search_items": 76,
+  "sitemap_urls": 81,
+  "local_references_checked": 1132,
+  "gallery_links_checked": 72,
+  "images_decoded": 356,
+  "json_ld_blocks_checked": 163,
+  "duplicate_product_groups": 0,
+  "errors": [],
+  "warnings": []
+}

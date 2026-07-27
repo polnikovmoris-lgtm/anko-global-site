@@ -1,0 +1,389 @@
+{
+  "pages_checked": 75,
+  "issues": [],
+  "issue_pages": 0,
+  "details": [
+    {
+      "page": "404.php",
+      "status": 404,
+      "issues": []
+    },
+    {
+      "page": "about.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "catalog.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-bentonit.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-instrument.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-lokacia.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-normet.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-polimer.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-smazki.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-trubi.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "category-ustanovki.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "contacts.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "delivery.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "index.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "policy.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-adapter.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-ankobent-ultra.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-baulux-pbma.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-baulux-pbmb.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-baulux-pbmv.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-bentolux-horizont-pr.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-bentolux-pac-hv.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-burovie-golovi.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-burovoi-nozh.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-burovoi-pilot.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-cetco-insta-vis-dry.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-cetco-rel-pac.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-cetco-ultragel.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-ditchwitch-hdd.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-fdp-hdd.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-goodeng-hdd.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-igla-20t.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-igla-20tvm.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-igla-32t.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-kluch-trubnii.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-lokatori-digitrak.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-lokatori-rf.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-mufta-startovoy.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-geotek.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamacryl.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamcem.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamcrete.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamgrease.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tampur.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamrez.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamseal.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamshot.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamsil.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-normet-tamsoil.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-nsu.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-pe-pipe-gaz.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-pe-pipe-voda.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-phrikolat-pac.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-phrikolat-rheopur.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-phrikolat-typ-w-premium.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-phrikolat-type-w.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-phrikolat-w-plus.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-polymersplus-vis.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-rasshiritel.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-shtanga-burovaya.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-shtanga-startovaya.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-smazka-ditchwitch.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-smazka-jet-lube.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-smazka-rf.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-smazka-vermeer.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-universal-hdd.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-vermeer-hdd.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-vertlugi.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-vkladishi-tiskov.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-vstavki-nozha.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-wamet-add.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-xcmg-hdd.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-zahvat-tsangovii.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "product-zondi.php",
+      "status": 200,
+      "issues": []
+    },
+    {
+      "page": "thanks.php",
+      "status": 200,
+      "issues": []
+    }
+  ],
+  "source_checks": {
+    "focus_visible_global": true,
+    "input_focus_visible": true,
+    "search_focus_visible": true,
+    "reduced_motion": true,
+    "viewport_zoom_not_disabled": true
+  }
+}

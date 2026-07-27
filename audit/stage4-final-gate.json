@@ -1,0 +1,91 @@
+{
+  "status": "PASS",
+  "stage": "Stage-04 local integration QA",
+  "file_counts": {
+    "all": 223,
+    "php": 79,
+    "root_php": 76,
+    "products": 59,
+    "categories": 8,
+    "images": 137
+  },
+  "http_status_counts": {
+    "404": 1,
+    "200": 74,
+    "405": 1
+  },
+  "search_index": {
+    "counts": {
+      "cat": 8,
+      "prod": 59
+    },
+    "total": 67,
+    "missing_urls": [],
+    "duplicate_urls": []
+  },
+  "sitemap": {
+    "urls": 72,
+    "missing_files": [],
+    "php_not_in_sitemap": []
+  },
+  "forms": {
+    "bad_csrf": [
+      419,
+      {
+        "error": "Сессия формы устарела. Обновите страницу и попробуйте снова."
+      }
+    ],
+    "invalid_phone": [
+      422,
+      {
+        "error": "Укажите корректный номер телефона."
+      }
+    ],
+    "honeypot": [
+      200,
+      {
+        "ok": true
+      }
+    ],
+    "valid_but_mail_unconfigured": [
+      503,
+      {
+        "error": "Не удалось отправить заявку. Позвоните нам по телефону на сайте."
+      }
+    ]
+  },
+  "claims": {
+    "reviews_anchor_present": false,
+    "review_section_present": false,
+    "placeholder_letters_present": false,
+    "500_plus_present": false,
+    "30_minutes_anywhere": false,
+    "external_normet_logo_present": false,
+    "baroid_brand_card_present": false,
+    "local_normet_logo_present": true,
+    "catalog_59_present": true
+  },
+  "normet_product_pages": 11,
+  "normet_logo_missing": [],
+  "responsive_css_rules": {
+    "breakpoint_1000": true,
+    "breakpoint_620": true,
+    "breakpoint_420": true,
+    "mobile_nav_hidden": true,
+    "burger_enabled": true,
+    "mobile_phone_hidden": true,
+    "mobile_buybox_stack": true
+  },
+  "php_runtime_markers": [],
+  "css_errors": [],
+  "external_blank_without_rel": [],
+  "insecure_assets": [],
+  "internal_public_files": [],
+  "failures": {},
+  "deployment_gates": [
+    "Configure and test SMTP or transactional mail on staging/hosting.",
+    "Verify Apache modules and .htaccess redirects/headers on hosting.",
+    "Run real-browser mobile/desktop and Lighthouse checks on a staging or public URL; local Chromium is restricted by managed URL policy.",
+    "Set analytics IDs only after consent/privacy decision."
+  ]
+}

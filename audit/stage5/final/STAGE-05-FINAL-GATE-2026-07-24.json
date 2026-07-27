@@ -1,0 +1,46 @@
+{
+  "stage": "Stage-05",
+  "date": "2026-07-24",
+  "status": "completed_locally_ready_for_staging",
+  "catalog": {
+    "products": 59,
+    "categories": 8,
+    "sitemap_urls": 72,
+    "search_records": 67
+  },
+  "seo": {
+    "product_og_specific": 59,
+    "product_og_type_product": 59,
+    "collection_pages": 9,
+    "sitemap_lastmod": 72,
+    "sitemap_images": 67,
+    "heading_skip_pages": 0,
+    "jsonld_error_pages": 0
+  },
+  "performance": {
+    "base_image_bytes": 12484054,
+    "final_image_bytes": 12783647,
+    "archive_image_delta": 299593,
+    "responsive_pairs": 60,
+    "avg_full_webp_bytes": 54586,
+    "avg_640_webp_bytes": 18308,
+    "avg_mobile_reduction_percent": 66.5
+  },
+  "qa": {
+    "missing_assets": 0,
+    "broken_links": 0,
+    "dimension_mismatches": 0,
+    "unused_images": 0,
+    "duplicate_image_groups": 0,
+    "responsive_variants_missing": 0,
+    "google_fonts_pages": 0,
+    "unsafe_target_blank": 0
+  },
+  "staging_required": [
+    "Apache redirects and modules",
+    "HTTPS/security/cache headers",
+    "Lighthouse/Core Web Vitals",
+    "SMTP delivery",
+    "analytics consent"
+  ]
+}

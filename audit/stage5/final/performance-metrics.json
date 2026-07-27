@@ -1,0 +1,9 @@
+{
+  "base_image_bytes": 12484054,
+  "final_image_bytes": 12783647,
+  "archive_image_delta": 299593,
+  "responsive_pairs": 60,
+  "avg_full_webp_bytes": 54586,
+  "avg_640_webp_bytes": 18308,
+  "avg_mobile_reduction_percent": 66.5
+}

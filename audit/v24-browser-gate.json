@@ -1,0 +1,261 @@
+{
+  "status": "passed",
+  "cases": 10,
+  "desktop_cases": 4,
+  "mobile_cases": 6,
+  "results": [
+    {
+      "id": "home-desktop",
+      "file": "index.php",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 4,
+        "loadedImages": 4,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/generated/bentonite-cetco-ultragel-640.webp",
+          "http://127.0.0.1:8765/img/generated/polymer-polymersplus-vis-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-ustanovki-640.webp",
+          "http://127.0.0.1:8765/img/product-rasshiritel-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "catalog-desktop",
+      "file": "catalog.php",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 8,
+        "loadedImages": 8,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/generated/bentonite-cetco-ultragel-640.webp",
+          "http://127.0.0.1:8765/img/generated/polymer-polymersplus-vis-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-ustanovki-640.webp",
+          "http://127.0.0.1:8765/img/product-rasshiritel-640.webp",
+          "http://127.0.0.1:8765/img/product-pe-pipe-voda-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-smazki-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-lokacia-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-normet-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "catalog-mobile",
+      "file": "catalog.php",
+      "viewport": {
+        "width": 390,
+        "height": 1100
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 8,
+        "loadedImages": 8,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/generated/bentonite-cetco-ultragel-640.webp",
+          "http://127.0.0.1:8765/img/generated/polymer-polymersplus-vis-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-ustanovki-640.webp",
+          "http://127.0.0.1:8765/img/product-rasshiritel-640.webp",
+          "http://127.0.0.1:8765/img/product-pe-pipe-voda-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-smazki-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-lokacia-640.webp",
+          "http://127.0.0.1:8765/img/category-cover-normet-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "normet-desktop",
+      "file": "category-normet.php",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 11,
+        "loadedImages": 11,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/product-normet-geotek-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamacryl-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamcem-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamcrete-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamgrease-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tampur-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamrez-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamseal-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamshot-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamsil-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamsoil-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "normet-mobile",
+      "file": "category-normet.php",
+      "viewport": {
+        "width": 390,
+        "height": 1100
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 11,
+        "loadedImages": 11,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/product-normet-geotek-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamacryl-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamcem-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamcrete-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamgrease-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tampur-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamrez-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamseal-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamshot-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamsil-640.webp",
+          "http://127.0.0.1:8765/img/product-normet-tamsoil-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "lubricants-mobile",
+      "file": "category-smazki.php",
+      "viewport": {
+        "width": 390,
+        "height": 1100
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 4,
+        "loadedImages": 4,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/product-smazka-vermeer-640.webp",
+          "http://127.0.0.1:8765/img/product-smazka-ditchwitch-640.webp",
+          "http://127.0.0.1:8765/img/product-smazka-jet-lube-640.webp",
+          "http://127.0.0.1:8765/img/product-smazka-rf-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "locating-mobile",
+      "file": "category-lokacia.php",
+      "viewport": {
+        "width": 390,
+        "height": 1100
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 3,
+        "loadedImages": 3,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/product-lokatori-digitrak-640.webp",
+          "http://127.0.0.1:8765/img/product-lokatori-rf-640.webp",
+          "http://127.0.0.1:8765/img/product-zondi-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "normet-product-desktop",
+      "file": "product-normet-geotek.php",
+      "viewport": {
+        "width": 1440,
+        "height": 1000
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 1,
+        "loadedImages": 1,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/product-normet-geotek-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 1440,
+        "documentWidth": 1440,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "lubricant-product-mobile",
+      "file": "product-smazka-ditchwitch.php",
+      "viewport": {
+        "width": 390,
+        "height": 1100
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 1,
+        "loadedImages": 1,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/product-smazka-ditchwitch-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    },
+    {
+      "id": "locating-product-mobile",
+      "file": "product-lokatori-rf.php",
+      "viewport": {
+        "width": 390,
+        "height": 1100
+      },
+      "status": "passed",
+      "metrics": {
+        "imageCount": 1,
+        "loadedImages": 1,
+        "currentSources": [
+          "http://127.0.0.1:8765/img/product-lokatori-rf-640.webp"
+        ],
+        "expectedImagesPresent": true,
+        "viewportWidth": 390,
+        "documentWidth": 390,
+        "horizontalOverflow": false
+      },
+      "errors": []
+    }
+  ],
+  "errors": []
+}

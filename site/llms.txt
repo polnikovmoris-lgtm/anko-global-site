@@ -1,0 +1,99 @@
+# ANKO GLOBAL
+
+> Навигационное описание сайта поставщика материалов, оборудования и оснастки для горизонтально-направленного бурения (ГНБ).
+
+ANKO GLOBAL — торговое наименование ООО «Анко-глобал» (УНП 693415351).
+Компания работает с 2011 года, находится в Минском районе и поставляет продукцию по Беларуси и в страны СНГ.
+
+Этот файл является экспериментальным навигационным резюме. Он не заменяет HTML-страницы, Sitemap или структурированные данные.
+Цены, наличие, совместимость, комплектацию и статус поставки следует подтверждать по соответствующей странице и у менеджера.
+
+## Основные страницы
+
+- [Главная](https://ankoglobal.by/)
+- [Каталог](https://ankoglobal.by/catalog.php)
+- [О компании](https://ankoglobal.by/about.php)
+- [Доставка и оплата](https://ankoglobal.by/delivery.php)
+- [Контакты и реквизиты](https://ankoglobal.by/contacts.php)
+- [Политика конфиденциальности](https://ankoglobal.by/policy.php)
+- [XML Sitemap](https://ankoglobal.by/sitemap.xml)
+
+## Категории каталога
+
+- [Бентониты для ГНБ](https://ankoglobal.by/category-bentonit.php)
+- [Полимеры и реагенты](https://ankoglobal.by/category-polimer.php)
+- [Буровые установки](https://ankoglobal.by/category-ustanovki.php)
+- [Буровой инструмент](https://ankoglobal.by/category-instrument.php)
+- [Локационные системы](https://ankoglobal.by/category-lokacia.php)
+- [ПЭ трубы](https://ankoglobal.by/category-trubi.php)
+- [Смазочные материалы](https://ankoglobal.by/category-smazki.php)
+- [Строительная химия Normet](https://ankoglobal.by/category-normet.php)
+
+## Бентониты
+
+- [AnkoBent Ultra](https://ankoglobal.by/product-ankobent-ultra.php)
+- [CETCO ULTRA GEL](https://ankoglobal.by/product-cetco-ultragel.php)
+- [Bentolux Horizont PR](https://ankoglobal.by/product-bentolux-horizont-pr.php)
+- [PHRIKOLAT Bentonit Typ W](https://ankoglobal.by/product-phrikolat-type-w.php)
+- [PHRIKOLAT Bentonit W plus](https://ankoglobal.by/product-phrikolat-w-plus.php)
+- [PHRIKOLAT Bentonit Typ W Premium](https://ankoglobal.by/product-phrikolat-typ-w-premium.php)
+- [AnkoBent Plus](https://ankoglobal.by/product-ankobent-plus.php)
+- [CETCO SUPER GEL X](https://ankoglobal.by/product-cetco-super-gel-x.php)
+- [CETCO HYDRAUL-EZ](https://ankoglobal.by/product-cetco-hydraul-ez.php)
+- [Baroid TUNNEL-GEL PLUS](https://ankoglobal.by/product-baroid-tunnel-gel-plus.php)
+
+## Полимеры и реагенты
+
+- [CETCO REL-PAC](https://ankoglobal.by/product-cetco-rel-pac.php)
+- [CETCO INSTA-VIS DRY](https://ankoglobal.by/product-cetco-insta-vis-dry.php)
+- [PolymersPlus VIS](https://ankoglobal.by/product-polymersplus-vis.php)
+- [Bentolux Horizont PAC-HV](https://ankoglobal.by/product-bentolux-pac-hv.php)
+- [BAULUX ПБМА](https://ankoglobal.by/product-baulux-pbma.php)
+- [BAULUX ПБМБ](https://ankoglobal.by/product-baulux-pbmb.php)
+- [BAULUX ПБМВ](https://ankoglobal.by/product-baulux-pbmv.php)
+- [PHRIKOLAT Rheopur](https://ankoglobal.by/product-phrikolat-rheopur.php)
+- [PHRIKOLAT PAC](https://ankoglobal.by/product-phrikolat-pac.php)
+- [CETCO SUSPEND-IT](https://ankoglobal.by/product-cetco-suspend-it.php)
+- [Polymers Plus HV](https://ankoglobal.by/product-polymersplus-hv.php)
+- [Polymers Plus PAM H](https://ankoglobal.by/product-polymersplus-pam-h.php)
+- [BENTOLUX Horizont PHPA](https://ankoglobal.by/product-bentolux-horizont-phpa.php)
+- [BENTOLUX Horizon VIS](https://ankoglobal.by/product-bentolux-horizon-vis.php)
+
+## Буровые установки
+
+- [Установки ГНБ XCMG](https://ankoglobal.by/product-xcmg-hdd.php)
+- [Установки ГНБ Goodeng](https://ankoglobal.by/product-goodeng-hdd.php)
+- [Установки ГНБ Vermeer](https://ankoglobal.by/product-vermeer-hdd.php)
+- [Установки ГНБ Ditch Witch](https://ankoglobal.by/product-ditchwitch-hdd.php)
+- [Установки ГНБ FDP](https://ankoglobal.by/product-fdp-hdd.php)
+- [Установки ГНБ Universal HDD](https://ankoglobal.by/product-universal-hdd.php)
+- [Установки шнекового бурения WAMET](https://ankoglobal.by/product-wamet-add.php)
+- [Установка прокола Игла-20Т](https://ankoglobal.by/product-igla-20t.php)
+- [Установка прокола Игла-20ТВМ](https://ankoglobal.by/product-igla-20tvm.php)
+- [Установка прокола Игла-32Т](https://ankoglobal.by/product-igla-32t.php)
+
+Старое обозначение «Игла-20ТБ» используется только как поисковый псевдоним и перенаправляется на актуальную страницу «Игла-20ТВМ».
+
+## Строительная химия Normet
+
+- [GeoTek](https://ankoglobal.by/product-normet-geotek.php)
+- [TamAcryl](https://ankoglobal.by/product-normet-tamacryl.php)
+- [TamCem](https://ankoglobal.by/product-normet-tamcem.php)
+- [TamCrete](https://ankoglobal.by/product-normet-tamcrete.php)
+- [TamGrease](https://ankoglobal.by/product-normet-tamgrease.php)
+- [TamPur](https://ankoglobal.by/product-normet-tampur.php)
+- [TamRez](https://ankoglobal.by/product-normet-tamrez.php)
+- [TamSeal](https://ankoglobal.by/product-normet-tamseal.php)
+- [TamShot](https://ankoglobal.by/product-normet-tamshot.php)
+- [TamSil](https://ankoglobal.by/product-normet-tamsil.php)
+- [TamSoil](https://ankoglobal.by/product-normet-tamsoil.php)
+
+## Контакты
+
+- Телефон: +375 29 652-67-09
+- Дополнительные телефоны: +375 29 639-91-39, +375 29 639-99-72
+- Email: main.accentline@gmail.com
+- Адрес: 223015, Минская область, Минский район, д. Тарасово, переулок 2-ой Школьный, д. 1А-1, пом. 14
+- Режим работы: Пн–Пт 9:00–21:00
+
+Последнее обновление: 2026-07-26.
